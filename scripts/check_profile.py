@@ -135,6 +135,8 @@ def check_local():
         html.feed(text)
         html.close()
         if path.name in PROFILES:
+            if re.match(r"\s*(?:`{3,}|~{3,})", text):
+                errors.append(f"{path.name}: profile starts with a code fence; remove the outer wrapper")
             errors.extend(f"{path.name}: {error}" for error in html.errors)
             if path.name == "README.md":
                 errors.extend(f"{path.name}: {error}" for error in check_inline_languages(text, html))

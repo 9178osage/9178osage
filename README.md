@@ -26,9 +26,7 @@
 
 ## 关于我
 
-你好，我是 Osage，来自中国，目前在美国读高中。数学是我最重要的兴趣，物理、化学和 Vocaloid 音乐也陪伴着我的日常。我正在通过 ELD（英语语言发展课程）继续提高英语，一点一点积累。
-
-我是一名数学爱好者，偶尔借助 AI 制作网站和实验性项目。我主要负责想法、设计与探索，而 AI 帮助我实现大部分代码。
+你好，我是 Osage，来自中国，目前在俄勒冈州读高中。我喜欢纯数学、物理、化学和 Vocaloid，正在通过 ELD（英语语言发展课程）提高英语，也会[借助 AI 做些小项目](#工具与开发方式)。
 
 ## 数学与自然科学
 
@@ -47,8 +45,6 @@
 > 其中 $n$ 为任意正整数。
 
 ## 精选项目
-
-把个人兴趣变成可以使用的小作品——实现过程中有很多 AI 的帮助。
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -88,15 +84,9 @@ Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果�
 
 ## 工具与开发方式
 
-**想法由我提出，大部分代码交给 AI，然后来回打磨。**
+我的计算机知识还很基础，也不打算在大学主修计算机科学。**我负责创意、功能和设计，AI 实现大部分代码**；再由我测试、反馈和反复调整。
 
-我的计算机知识还很基础，也不打算把计算机科学作为大学专业。这些项目是探索想法的方式，并不意味着我是一名专业开发者。
-
-1. **想清楚要做什么**——我提出创意，决定功能、设计方向和审美。
-2. **借助 AI 实现**——AI 完成绝大部分代码。
-3. **试用、反馈、修改**——我不断测试和调整，也经常让多个先进 AI 模型交叉检查代码。
-
-我很在意安全性和可靠性。交叉检查可能帮助发现问题，但**不能保证**代码绝对安全或正确。
+我常用多个先进 AI 模型交叉检查代码，关注安全性与可靠性，但这**不能保证代码安全或正确**。
 
 ## 支持我的项目
 
@@ -143,9 +133,7 @@ Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果�
 
 ## 自己紹介
 
-こんにちは、Osage です。中国出身で、現在はアメリカの高校に通っています。一番の関心は数学で、物理、化学、Vocaloid の音楽も好きです。ELD（英語学習支援の授業）を通じて、少しずつ英語力を伸ばしています。
-
-数学を楽しみながら、ときどき AI の力を借りてウェブサイトや実験的な作品をつくっています。アイデアやデザイン、試行錯誤は自分で進め、コードの大部分は AI に実装してもらっています。
+こんにちは、Osage です。中国出身で、オレゴン州の高校に通っています。純粋数学、物理、化学、Vocaloid が好きで、ELD（英語学習支援の授業）で英語を学んでいます。ときどき [AI の力を借りて作品もつくっています](#ツールと制作の進め方)。
 
 ## 数学と自然科学
 
@@ -164,8 +152,6 @@ Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果�
 > ここで $n$ は任意の正の整数です。
 
 ## ピックアップした作品
-
-個人的な興味やアイデアを、AI にたくさん助けてもらいながら形にした作品です。
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -205,15 +191,9 @@ Weather Observation Station も、その延長にあります。好きな音楽�
 
 ## ツールと制作の進め方
 
-**アイデアは自分から。コードの大部分は AI と。何度も試して、少しずつ。**
+コンピューターの知識はまだ基礎的で、大学でコンピューターサイエンスを専攻する予定もありません。**アイデア・機能・デザインは自分で決め、コードの大部分は AI に実装してもらいます。** テストとフィードバックを重ねながら、少しずつ改善しています。
 
-コンピューターの知識はまだごく基礎的で、大学でコンピューターサイエンスを専攻する予定もありません。作品づくりはアイデアを試す方法であり、プロの開発者だと名乗るためのものではありません。
-
-1. **考えて、方向を決める** — アイデア、機能、デザインの方向性は自分で決めます。
-2. **AI と形にする** — コードの大部分は AI に実装してもらいます。
-3. **試して、伝えて、直す** — テストとフィードバックを繰り返し、複数の高度な AI モデルにコードを相互確認してもらうこともあります。
-
-安全性と信頼性を大切にしています。ただし、相互確認は問題の発見に役立つ可能性があるだけで、コードの安全性や正しさを**保証するものではありません**。
+安全性と信頼性を大切にし、複数の高度な AI モデルでコードを相互確認することもありますが、安全性や正しさを**保証できるわけではありません**。
 
 ## プロジェクトを応援する
 
@@ -260,9 +240,7 @@ Weather Observation Station も、その延長にあります。好きな音楽�
 
 ## About me
 
-Hi, I'm Osage — a high school student from China, now studying in the United States. Mathematics is my main interest, with physics, chemistry, and Vocaloid music close by. I'm also working on my English through ELD (English Language Development), one conversation at a time.
-
-I'm a mathematics enthusiast who occasionally builds websites and experimental projects with AI assistance. I focus on ideas, design, and exploration, while AI helps implement most of the code.
+Hi, I'm Osage, a high school student from China, now in Oregon. I love pure mathematics, physics, chemistry, and Vocaloid, and I'm improving my English through ELD (English Language Development). I also [build small projects with AI](#tools--workflow).
 
 ## Mathematics & science
 
@@ -281,8 +259,6 @@ In **physics and chemistry**, I enjoy both asking why the principles work and ex
 > For any positive integer $n$.
 
 ## Featured projects
-
-Ideas and personal interests, made tangible with a lot of AI assistance.
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -322,15 +298,9 @@ That affection is also why Weather Observation Station exists: sometimes liking 
 
 ## Tools & workflow
 
-**Ideas by me. Most code with AI. Plenty of back-and-forth.**
+My computer knowledge is still basic, and I don't plan to major in computer science. **I choose the ideas, features, and design; AI writes most of the code.** I test, give feedback, and refine the results.
 
-My computer knowledge is still very basic, and I don't plan to major in computer science. These projects are a way to explore ideas, not a claim to be a professional developer.
-
-1. **Imagine & shape** — I propose the idea, choose the features, and guide the design.
-2. **Build with AI** — AI implements most of the code.
-3. **Try & refine** — I test, give feedback, and iterate, often asking multiple advanced AI models to cross-check the code.
-
-I care about security and reliability. Cross-checking can help find problems; it does **not** guarantee that the code is safe or correct.
+I often use multiple advanced AI models to cross-check the code for security and reliability, but that **doesn't guarantee safe or correct code**.
 
 ## Support my projects
 
