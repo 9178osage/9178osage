@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Weather Observation Station</title>
+  <desc id="description">Original conceptual cover, not a website screenshot: an imaginary listening station under a rain cloud, with quiet waveforms and a blue-gray sky.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2=".5">
+      <stop stop-color="#263b50"/>
+      <stop offset="1" stop-color="#192a3e"/>
+    </linearGradient>
+    <pattern id="lines" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9db7cf" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#sky)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#lines)"/>
+  <path d="M34 34H1166M34 286H1166" stroke="#a1b9cc" stroke-opacity=".2"/>
+  <circle cx="57" cy="63" r="4" fill="#b6cadd"/>
+  <text x="74" y="69" fill="#bbcddd" font-family="ui-monospace, monospace" font-size="16" letter-spacing="3">01 / A PERSONAL FAN PROJECT</text>
+  <text x="52" y="139" fill="#f1ece5" font-family="Georgia, 'Times New Roman', serif" font-size="51">Weather</text>
+  <text x="52" y="199" fill="#d0c7e4" font-family="Georgia, 'Times New Roman', serif" font-size="51">Observation Station</text>
+  <text x="55" y="253" fill="#c5d5e0" font-family="system-ui, sans-serif" font-size="21">Songs, collected moments, and a little rain.</text>
+  <g transform="translate(815 30)">
+    <circle cx="127" cy="130" r="108" fill="none" stroke="#adc7da" stroke-opacity=".17"/>
+    <circle cx="127" cy="130" r="122" fill="none" stroke="#adc7da" stroke-opacity=".1"/>
+    <path d="M58 90Q42 55 74 42Q85 10 119 27Q155 2 176 38Q212 38 209 70Q210 91 187 94H76Q64 94 58 90Z" fill="#b4c3d7"/>
+    <path d="M77 110l-6 16m40-12-6 16m40-19-6 16m39-17-6 16" stroke="#bfd9e7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M30 225H229" stroke="#93a9bf" stroke-width="2"/>
+    <path d="M64 218V169L126 133L191 169V218" fill="#344e67" stroke="#acc1d3" stroke-width="2"/>
+    <path d="M53 172L126 130L202 172" fill="none" stroke="#d3c8e3" stroke-width="4" stroke-linecap="round"/>
+    <path d="M126 133V109m-7 0h14" stroke="#d3c8e3" stroke-width="3"/>
+    <rect x="83" y="173" width="88" height="31" rx="4" fill="#1c2e43" stroke="#91adc5"/>
+    <path d="M94 189h9l5-8 7 15 7-20 8 25 7-13h21" fill="none" stroke="#c2d8e4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M17 163q-13 20 0 40m221-40q13 20 0 40" fill="none" stroke="#9db7ce" stroke-width="2" opacity=".55"/>
+  </g>
+</svg>
