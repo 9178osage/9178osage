@@ -4,10 +4,6 @@
   <a href="./README.ja.md" lang="ja">日本語</a>
 </p>
 
-<p align="center">
-  <img src="./assets/rain-notebook.svg" width="100%" alt="原创插画：戴着耳机的淡紫发听众、摊开的数学笔记，以及落着雨的圆窗。雨声中的证明。" />
-</p>
-
 <h1 align="center">Osage jiang</h1>
 
 <p align="center">
@@ -55,8 +51,6 @@
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-[![原创雨蓝色插画：一座想象中的音乐观测站，有云、雨滴和声波；并非网站截图。](./assets/weather-station.svg)](https://osagechan.top/)
-
 **给喜欢的音乐，在网上留一个小小的位置。** 这是为 **稲葉曇 / inabakumori** 制作的非官方粉丝网站，也是最能体现我个人审美的项目。
 
 包含歌曲资料与音乐链接、整理收录的创作者动态、插画展示、中英日三语界面、账号功能、留言墙，以及可自定义的视觉效果。
@@ -82,8 +76,6 @@
 <sub>非官方个人创作，不是 OpenAI 官方产品，与 OpenAI 无隶属关系，也未获其背书。</sub>
 
 ## 音乐角落
-
-![原创磁带插画与轻轻落下的雨，留给 Vocaloid 的安静角落。动画仅用于装饰，并非实时播放器。](./assets/music-corner.svg)
 
 **Vocaloid 不只是背景音乐，也是这个小空间的气氛来源。**
 
@@ -123,5 +115,5 @@ Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果�
 
 <p align="center">
   <sub>一本笔记，一扇雨窗，还有下一个问题。</sub><br />
-  <sub>原创主页插画 · 无追踪器、实时统计或借用的角色素材</sub>
+  <sub>无追踪器、实时统计或借用的角色素材</sub>
 </p>

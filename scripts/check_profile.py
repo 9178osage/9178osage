@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check this profile's local assets/links; optionally check HTTPS availability."""
+"""Check this profile's local links/assets; optionally check HTTPS availability."""
 
 import argparse
 from concurrent.futures import ThreadPoolExecutor
@@ -95,9 +95,8 @@ def check_local():
                 if unquote(parts.fragment) not in ids:
                     errors.append(f"{path.name}: missing heading: {link}")
 
+    # The profile currently has no images; validate any SVGs added later.
     assets = sorted((ROOT / "assets").glob("*.svg"))
-    if len(assets) != 3:
-        errors.append("Expected three local SVG illustrations")
     for path in assets:
         try:
             svg = ET.parse(path).getroot()

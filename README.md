@@ -4,10 +4,6 @@
   <a href="./README.ja.md" lang="ja">日本語</a>
 </p>
 
-<p align="center">
-  <img src="./assets/rain-notebook.svg" width="100%" alt="Original illustration: a lavender-haired listener with headphones, an open mathematics notebook, and a circular rain-streaked window. Proofs in the rain." />
-</p>
-
 <h1 align="center">Osage jiang</h1>
 
 <p align="center">
@@ -55,8 +51,6 @@ Ideas and personal interests, made tangible with a lot of AI assistance.
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-[![Original rain-blue illustration of an imaginary listening station, with a cloud, rain, and a waveform; not a screenshot of the website.](./assets/weather-station.svg)](https://osagechan.top/)
-
 **A little place on the web for music I love.** An unofficial fan site dedicated to **稲葉曇 / inabakumori**, and the project that most closely reflects my personal taste.
 
 Song information and music links, collected creator updates, an illustration gallery, Chinese / English / Japanese interfaces, account features, a message wall, and customizable visuals.
@@ -82,8 +76,6 @@ Desk data stays in the current browser, with export / import for backups. GPA re
 <sub>A personal fan creation; not an official OpenAI product, and not affiliated with or endorsed by OpenAI.</sub>
 
 ## Music corner
-
-![An original illustrated cassette and gently drifting rain: a quiet corner for Vocaloid. Decorative animation only, not a live music player.](./assets/music-corner.svg)
 
 **Vocaloid is part of the atmosphere here, not just background music.**
 
@@ -123,5 +115,5 @@ For project feedback, shared interests, or a hello:
 
 <p align="center">
   <sub>A notebook, a rainy window, and one more question.</sub><br />
-  <sub>Original profile artwork · No trackers, live stats, or borrowed character art</sub>
+  <sub>No trackers, live stats, or borrowed character art</sub>
 </p>
