@@ -1,4 +1,4 @@
-<h1 align="center">Osage jiang</h1>
+<h1 align="center">Osage</h1>
 
 <p align="center">
   <strong>数学爱好者 · Mathematics Enthusiast</strong><br />

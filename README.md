@@ -1,4 +1,4 @@
-<h1 align="center">Osage jiang</h1>
+<h1 align="center">Osage</h1>
 
 <p align="center">
   <sub>Choose a language · 点击语言展开 · 言語を選んで開く</sub>
