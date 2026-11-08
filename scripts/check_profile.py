@@ -21,7 +21,7 @@ PROJECTS = (
     "小辫子酱 · Codex Desktop Pet",
 )
 SUPPORT = "If you enjoy my projects, feel free to support me."
-ALLOWED_TAGS = {"p", "strong", "a", "img", "h1", "em", "br", "sub"}
+ALLOWED_TAGS = {"p", "strong", "a", "img", "h1", "em", "br", "sub", "details", "summary"}
 
 
 class ProfileHTML(HTMLParser):
@@ -29,6 +29,9 @@ class ProfileHTML(HTMLParser):
         super().__init__()
         self.links = []
         self.errors = []
+        self.disclosures = []
+        self.detail_stack = []
+        self.in_summary = False
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
@@ -38,9 +41,75 @@ class ProfileHTML(HTMLParser):
             self.errors.append(f"Inline CSS or event handler on {tag}")
         if tag == "img" and not (attrs.get("alt") or "").strip():
             self.errors.append("Image is missing alternative text")
+        if tag == "details":
+            if self.detail_stack:
+                self.errors.append("Language disclosures must not be nested")
+            disclosure = {"attrs": attrs, "label": "", "summaries": 0}
+            self.disclosures.append(disclosure)
+            self.detail_stack.append(disclosure)
+        elif tag == "summary":
+            if not self.detail_stack or self.in_summary:
+                self.errors.append("Summary must belong to one language disclosure")
+            else:
+                self.detail_stack[-1]["summaries"] += 1
+                self.in_summary = True
         for attr in ("href", "src"):
             if attr in attrs:
                 self.links.append(attrs[attr] or "")
+
+    def handle_data(self, data):
+        if self.in_summary and self.detail_stack:
+            self.detail_stack[-1]["label"] += data
+
+    def handle_endtag(self, tag):
+        if tag == "summary":
+            if not self.in_summary:
+                self.errors.append("Unmatched closing summary")
+            self.in_summary = False
+        elif tag == "details":
+            if not self.detail_stack:
+                self.errors.append("Unmatched closing details")
+            else:
+                disclosure = self.detail_stack.pop()
+                if disclosure["summaries"] != 1:
+                    self.errors.append("Each language disclosure needs exactly one summary")
+            if self.in_summary:
+                self.errors.append("Summary must close before its details")
+                self.in_summary = False
+
+    def close(self):
+        super().close()
+        if self.detail_stack or self.in_summary:
+            self.errors.append("Unclosed language disclosure or summary")
+
+
+def check_inline_languages(text, html):
+    errors = []
+    languages = (("简体中文", False), ("日本語", False), ("English", True))
+    actual = tuple(
+        (item["label"].strip(), "open" in item["attrs"])
+        for item in html.disclosures
+    )
+    if actual != languages:
+        errors.append("language disclosures must be 简体中文, 日本語, English; only English open")
+    bodies = re.findall(
+        r"<details\b[^>]*>\s*<summary>.*?</summary>\s*\n(.*?)\n</details>",
+        text, re.DOTALL,
+    )
+    if len(bodies) != len(languages):
+        errors.append("language disclosures must contain three complete Markdown bodies")
+        return errors
+    for body, source_name in zip(bodies, ("README.zh-CN.md", "README.ja.md")):
+        source = ROOT / source_name
+        if not source.is_file():
+            continue  # The regular document check reports missing sources.
+        standalone = re.sub(
+            r"\A\s*<h1\b[^>]*>.*?</h1>\s*", "",
+            source.read_text(encoding="utf-8"), count=1, flags=re.DOTALL,
+        )
+        if body.strip() != standalone.strip():
+            errors.append(f"inline language content differs from {source_name}")
+    return errors
 
 
 def heading_ids(text):
@@ -64,12 +133,16 @@ def check_local():
         text = path.read_text(encoding="utf-8")
         html = ProfileHTML()
         html.feed(text)
+        html.close()
         if path.name in PROFILES:
             errors.extend(f"{path.name}: {error}" for error in html.errors)
+            if path.name == "README.md":
+                errors.extend(f"{path.name}: {error}" for error in check_inline_languages(text, html))
             if SUPPORT not in text:
                 errors.append(f"{path.name}: missing exact support sentence")
             projects = re.findall(r"^### \d{2} / (.+)$", text, re.MULTILINE)
-            if tuple(projects) != PROJECTS:
+            expected_projects = PROJECTS * 3 if path.name == "README.md" else PROJECTS
+            if tuple(projects) != expected_projects:
                 errors.append(f"{path.name}: featured projects/order changed")
             for alt in re.findall(r"!\[([^\]]*)\]\(", text):
                 if not alt.strip():
@@ -87,6 +160,8 @@ def check_local():
             if parts.scheme or parts.netloc:
                 errors.append(f"{path.name}: unsupported URL: {link}")
                 continue
+            if path.name == "README.md" and Path(unquote(parts.path)).name in PROFILES:
+                errors.append(f"{path.name}: language navigation must stay inline: {link}")
             target = (path.parent / unquote(parts.path)).resolve() if parts.path else path
             if not target.is_relative_to(ROOT) or not target.is_file():
                 errors.append(f"{path.name}: missing/out-of-repository target: {link}")

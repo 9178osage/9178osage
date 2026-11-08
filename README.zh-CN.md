@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="./README.md" lang="en">English</a> &nbsp; / &nbsp;
-  <strong>简体中文</strong> &nbsp; / &nbsp;
-  <a href="./README.ja.md" lang="ja">日本語</a>
-</p>
-
 <h1 align="center">Osage jiang</h1>
 
 <p align="center">
