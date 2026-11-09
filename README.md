@@ -5,7 +5,7 @@
 </p>
 
 <details>
-<summary><strong>简体中文</strong></summary>
+<summary><strong>🇨🇳 简体中文</strong></summary>
 
 <p align="center">
   <strong>数学爱好者 · Mathematics Enthusiast</strong><br />
@@ -112,7 +112,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 </details>
 
 <details>
-<summary><strong>日本語</strong></summary>
+<summary><strong>🇯🇵 日本語</strong></summary>
 
 <p align="center">
   <strong>数学が好きな高校生 · Mathematics Enthusiast</strong><br />
@@ -219,7 +219,7 @@ Weather Observation Station も、そこから生まれました。好きな音�
 </details>
 
 <details open>
-<summary><strong>English</strong></summary>
+<summary><strong>🇺🇸 English</strong></summary>
 
 <p align="center">
   <strong>Mathematics Enthusiast</strong><br />

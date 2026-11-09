@@ -85,13 +85,13 @@ class ProfileHTML(HTMLParser):
 
 def check_inline_languages(text, html):
     errors = []
-    languages = (("简体中文", False), ("日本語", False), ("English", True))
+    languages = (("🇨🇳 简体中文", False), ("🇯🇵 日本語", False), ("🇺🇸 English", True))
     actual = tuple(
         (item["label"].strip(), "open" in item["attrs"])
         for item in html.disclosures
     )
     if actual != languages:
-        errors.append("language disclosures must be 简体中文, 日本語, English; only English open")
+        errors.append("language disclosures must be 🇨🇳 简体中文, 🇯🇵 日本語, 🇺🇸 English; only English open")
     bodies = re.findall(
         r"<details\b[^>]*>\s*<summary>.*?</summary>\s*\n(.*?)\n</details>",
         text, re.DOTALL,
