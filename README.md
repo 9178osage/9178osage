@@ -38,11 +38,16 @@
 
 **物理和化学**也是一样：我既想弄明白背后的原理，也喜欢亲手做实验看看。
 
-> 我很喜欢的一个小例子：从 1 开始依次加上奇数，得到的和总是平方数。
->
-> $1 + 3 + \cdots + (2n - 1) = n^2$
->
-> 对任意正整数 $n$ 都成立。
+<p align="center">
+  <strong>奇数求和恒等式</strong><br />
+  <em>从简单的规律，得到完美平方</em>
+</p>
+
+$$
+\sum_{k=1}^{n}(2k - 1) = n^2
+$$
+
+<p align="center"><sub>对任意正整数 n 都成立。</sub></p>
 
 ## 精选项目
 
@@ -145,11 +150,16 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 **物理や化学**も同じで、原理を理解するのも、実際に手を動かして実験するのも好きです。
 
-> お気に入りの小さな例：1 から順に奇数を足していくと、その和はいつも平方数になります。
->
-> $1 + 3 + \cdots + (2n - 1) = n^2$
->
-> これはどんな正の整数 $n$ でも成り立ちます。
+<p align="center">
+  <strong>奇数和の恒等式</strong><br />
+  <em>シンプルな規則から、きれいな平方数へ</em>
+</p>
+
+$$
+\sum_{k=1}^{n}(2k - 1) = n^2
+$$
+
+<p align="center"><sub>どんな正の整数 n に対しても成り立ちます。</sub></p>
 
 ## 主な作品
 
@@ -252,11 +262,16 @@ What draws me most is **pure mathematics**: algebra, number theory, analysis, an
 
 The same goes for **physics and chemistry**. I like understanding why things work, and I like testing them with my own hands in experiments.
 
-> A small favorite: add up the odd numbers, starting from 1, and you always get a perfect square.
->
-> $1 + 3 + \cdots + (2n - 1) = n^2$
->
-> This holds for every positive integer $n$.
+<p align="center">
+  <strong>THE ODD-SUM IDENTITY</strong><br />
+  <em>A simple pattern, ending in a perfect square</em>
+</p>
+
+$$
+\sum_{k=1}^{n}(2k - 1) = n^2
+$$
+
+<p align="center"><sub>For every positive integer n.</sub></p>
 
 ## Featured projects
 
