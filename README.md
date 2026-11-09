@@ -9,11 +9,11 @@
 
 <p align="center">
   <strong>数学爱好者 · Mathematics Enthusiast</strong><br />
-  <em>证明结论，连接思想，创造有趣的项目。</em>
+  <em>喜欢证明，喜欢把想法串起来，也喜欢做点有意思的小东西。</em>
 </p>
 
 <p align="center">
-  美国俄勒冈州 &nbsp; · &nbsp; 高中生 &nbsp; · &nbsp; Vocaloid 听众
+  美国俄勒冈州 &nbsp; · &nbsp; 高中生 &nbsp; · &nbsp; 爱听 V 家
 </p>
 
 <p align="center">
@@ -26,79 +26,79 @@
 
 ## 关于我
 
-你好，我是 Osage，来自中国，目前在俄勒冈州读高中。我喜欢纯数学、物理、化学和 Vocaloid，正在通过 ELD（英语语言发展课程）提高英语，也会[借助 AI 做些小项目](#工具与开发方式)。
+你好，我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（英语语言发展）课程一点点进步。偶尔，我也会[借助 AI 做些小项目](#我怎么做项目)。
 
 ## 数学与自然科学
 
-**一个好问题，就能让我琢磨很久。**
+**一个好问题，足够我琢磨很久。**
 
-我喜欢证明数学结论，寻找不同知识之间隐藏的联系，也在意思考过程是否严谨、逻辑是否自洽。
+我喜欢亲手把一个结论证出来，喜欢发现看似不相关的知识之间藏着的联系，也喜欢把推理一步步理清，让它严谨、自洽。
 
-我更偏爱**纯数学和理论数学**，对代数、数论、数学分析以及证明的结构感兴趣。这些是我正在探索的方向，并不代表我已经掌握了它们。对我来说，抽象的思想本身就很有趣。
+比起应用，我更偏爱**纯数学**：代数、数论、数学分析，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的东西本身就让我着迷。
 
-对于**物理和化学**，我既喜欢理解理论与原理，也喜欢通过动手实验去探索。
+**物理和化学**也是一样：我既想弄明白背后的原理，也喜欢亲手做实验看看。
 
-> 一个小小的联系：从 1 开始，前几个连续奇数的和恰好组成一个平方数。
+> 我很喜欢的一个小例子：从 1 开始依次加上奇数，得到的和总是平方数。
 >
 > $1 + 3 + \cdots + (2n - 1) = n^2$
 >
-> 其中 $n$ 为任意正整数。
+> 对任意正整数 $n$ 都成立。
 
 ## 精选项目
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**给喜欢的音乐，在网上留一个小小的位置。** 这是为 **稲葉曇 / inabakumori** 制作的非官方粉丝网站，也是最能体现我个人审美的项目。
+**给喜欢的音乐，在网上留一个小小的位置。** 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
 
-包含歌曲资料与音乐链接、整理收录的创作者动态、插画展示、中英日三语界面、账号功能、留言墙，以及可自定义的视觉效果。
+站里有歌曲资料和音乐链接、整理好的创作者动态、插画展示和中英日三语界面，还有账号功能、留言墙，以及可以自己调整的视觉效果。
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
-<sub>个人粉丝项目，与稲葉曇、所展示作品的插画师及相关官方厂牌或平台没有隶属关系。</sub>
+<sub>个人粉丝作品，与稲葉曇本人、站内插画作者及相关官方厂牌或平台均无关联。</sub>
 
 ### 02 / Eugene Desk
 
-**把上学日里的琐事，安放在一张书桌上。** 面向学生实际需求设计的多语言学习仪表盘，整合课程表、待办事项、GPA 估算、校园与城市信息、学生资源和个人偏好设置。
+**把上学日的琐碎事情，都收进一张书桌。** 一个从学生日常需要出发的多语言学习面板：课程表、待办事项、GPA 估算、校园和城市信息、学生资源和个人设置，都放在同一个地方。
 
-书桌数据保存在当前浏览器中，可通过导出、导入进行备份与恢复。GPA 仅供估算，不代表正式成绩。
+数据保存在你当前使用的浏览器里，可以导出备份，也可以再导入恢复。GPA 只是估算，不等于正式成绩。
 
 **[打开书桌 ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/13th-desk)
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-**只是想做一个可爱的小伙伴。** 以 Codex 为灵感创作的非官方桌面宠物，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
+**只是想做一个可爱的小伙伴。** 一只受 Codex 启发的非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
 
 **[认识小辫子酱 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [观看动作演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [获取资源包](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
-<sub>非官方个人创作，不是 OpenAI 官方产品，与 OpenAI 无隶属关系，也未获其背书。</sub>
+<sub>个人非官方创作，不是 OpenAI 的产品，与 OpenAI 没有关联，也未获其认可。</sub>
 
 ## 音乐角落
 
-**Vocaloid 不只是背景音乐，也是这个小空间的气氛来源。**
+**对我来说，V 家的歌不只是背景音乐，也是这个主页的底色。**
 
-特别喜欢的两位创作者：**稲葉曇 / inabakumori** 和 **DECO\*27**。我把对他们音乐的喜爱，和自己偏爱的雨天、蓝灰色、淡淡的二次元气息，放在了这个角落。
+最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。我把对他们音乐的喜欢，连同自己偏爱的雨天、蓝灰色和一点点二次元气息，一起放进了这个角落。
 
-Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果不知不觉为它做了一整个网站。
+Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌，不知不觉就做出了一整个网站。
 
-<sub>这里只表达个人喜好，不代表官方合作；不提供实时播放或听歌记录。</sub>
+<sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
-## 工具与开发方式
+## 我怎么做项目
 
-我的计算机知识还很基础，也不打算在大学主修计算机科学。**我负责创意、功能和设计，AI 实现大部分代码**；再由我测试、反馈和反复调整。
+老实说，我的计算机基础还很浅，大学也不打算学计算机。我的做法是：**想法、功能和设计由我来定，大部分代码交给 AI 写**，然后我自己试用、提意见，一遍遍改到满意为止。
 
-我常用多个先进 AI 模型交叉检查代码，关注安全性与可靠性，但这**不能保证代码安全或正确**。
+我很在意安全和稳定，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。
 
 ## 支持我的项目
 
 **If you enjoy my projects, feel free to support me.**
 
-如果你喜欢这些项目，欢迎随意支持一下。它们主要由个人兴趣驱动，使用多个高级 AI 模型协助实现和交叉检查也会产生实际费用，但完全不必有压力。试用作品、认真提建议，或者给仓库点一颗星，都已经是很好的鼓励。
+这些项目都是出于兴趣做的，不过同时用好几个高级 AI 模型写代码、做检查，确实会产生一些费用。如果你愿意支持，我会非常开心；当然完全不用有压力——试用一下、提点建议，或者给仓库点个 Star，对我来说都是很大的鼓励。
 
-<sub>目前没有列出捐赠入口，因为尚未核实可用的支持渠道。</sub>
+<sub>这里暂时还没有放赞助链接。</sub>
 
 ## 联系我
 
-聊聊项目、共同的兴趣，或者简单打个招呼：
+想聊聊项目、共同的爱好，或者只是打个招呼，都欢迎给我发邮件：
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
 
@@ -106,7 +106,7 @@ Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果�
 
 <p align="center">
   <sub>一本笔记，一扇雨窗，还有下一个问题。</sub><br />
-  <sub>无追踪器、实时统计或借用的角色素材</sub>
+  <sub>没有追踪器，也没有统计，只有文字。</sub>
 </p>
 
 </details>
@@ -116,7 +116,7 @@ Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果�
 
 <p align="center">
   <strong>数学が好きな高校生 · Mathematics Enthusiast</strong><br />
-  <em>命題を証明し、考えをつなぎ、好奇心から作品をつくる。</em>
+  <em>証明すること、考えをつなぐこと、好奇心のままに何かをつくること。</em>
 </p>
 
 <p align="center">
@@ -126,86 +126,86 @@ Weather Observation Station 也是这样诞生的：喜欢一些音乐，结果�
 <p align="center">
   <a href="#自己紹介">自己紹介</a> &nbsp; / &nbsp;
   <a href="#数学と自然科学">数学</a> &nbsp; / &nbsp;
-  <a href="#ピックアップした作品">作品</a> &nbsp; / &nbsp;
+  <a href="#主な作品">作品</a> &nbsp; / &nbsp;
   <a href="#音楽のコーナー">音楽</a> &nbsp; / &nbsp;
   <a href="#連絡先">連絡先</a>
 </p>
 
 ## 自己紹介
 
-こんにちは、Osage です。中国出身で、オレゴン州の高校に通っています。純粋数学、物理、化学、Vocaloid が好きで、ELD（英語学習支援の授業）で英語を学んでいます。ときどき [AI の力を借りて作品もつくっています](#ツールと制作の進め方)。
+はじめまして、Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にも興味があり、ボカロもよく聴きます。英語は ELD（英語学習支援）の授業で少しずつ勉強中です。ときどき [AI の力を借りて、ちょっとした作品もつくっています](#作品のつくり方)。
 
 ## 数学と自然科学
 
-**面白い問いが一つあれば、長い時間をかけて考えたくなります。**
+**いい問いがひとつあれば、いつまでも考えていられます。**
 
-数学の命題を証明すること、異なる考えの間につながりを見つけること、そして推論に論理的な一貫性を求めることが好きです。
+命題を自分の手で証明すること、一見関係なさそうな考えどうしのつながりを見つけること、そして推論を一歩ずつ、矛盾なく組み立てることが好きです。
 
-特に惹かれるのは**純粋数学や理論的な数学**です。代数、数論、解析学、証明の構造に関心があります。どれもこれから学び、探っていきたい分野で、すでに習得しているという意味ではありません。抽象的な考えそのものに面白さを感じています。
+特に惹かれるのは**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中ですが、抽象的な考えには不思議な魅力を感じます。
 
-**物理と化学**では、理論や原理を理解することも、実際に手を動かして実験することも楽しんでいます。
+**物理や化学**も同じで、原理を理解するのも、実際に手を動かして実験するのも好きです。
 
-> 好きな「つながり」の小さな例。1 から順に奇数を足していくと、平方数になります。
+> お気に入りの小さな例：1 から順に奇数を足していくと、その和はいつも平方数になります。
 >
 > $1 + 3 + \cdots + (2n - 1) = n^2$
 >
-> ここで $n$ は任意の正の整数です。
+> これはどんな正の整数 $n$ でも成り立ちます。
 
-## ピックアップした作品
+## 主な作品
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**好きな音楽のために、ウェブ上に小さな居場所を。** **稲葉曇 / inabakumori** の非公式ファンサイトで、自分の好みが最もよく表れている作品です。
+**好きな音楽のために、ウェブの片隅に小さな居場所を。** **稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
 
-楽曲情報と音楽関連リンク、収集・整理したクリエイターの投稿、イラストギャラリー、中英日対応の画面、アカウント機能、メッセージウォール、見た目のカスタマイズ機能を備えています。
+楽曲情報や音楽リンク、まとめたクリエイターの近況、イラストギャラリー、中・英・日の 3 言語表示に加えて、アカウント機能やメッセージウォール、見た目のカスタマイズもあります。
 
 **[観測所へ ↗](https://osagechan.top/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/inabakumori-site)
 
-<sub>個人によるファン活動です。稲葉曇氏、掲載作品のイラストレーター、公式レーベルやプラットフォームとは関係ありません。</sub>
+<sub>個人のファン活動です。稲葉曇さん、掲載イラストの作者、公式レーベルや各プラットフォームとは関係ありません。</sub>
 
 ### 02 / Eugene Desk
 
-**学校の一日を、少し落ち着いて見渡せる机。** 学生の日常的なニーズから考えた多言語ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をまとめています。
+**慌ただしい学校の一日を、ひとつの机の上に。** 学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
 
-データは現在のブラウザーに保存され、エクスポート・インポートでバックアップできます。GPA は概算であり、正式な成績ではありません。
+データはお使いのブラウザーに保存され、エクスポートとインポートでバックアップできます。GPA はあくまで目安で、正式な成績ではありません。
 
 **[デスクを開く ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/13th-desk)
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-**かわいい小さな相棒をつくってみたくて。** Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクター、カスタムアニメーション、動作デモ、ダウンロード可能な素材パックがあります。
+**かわいい相棒がほしくて、つくってみました。** Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
 **[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
-<sub>個人による非公式作品です。OpenAI の公式製品ではなく、同社との提携や同社による承認を示すものではありません。</sub>
+<sub>個人の非公式作品で、OpenAI の公式製品ではありません。OpenAI との提携や承認もありません。</sub>
 
 ## 音楽のコーナー
 
-**Vocaloid は BGM だけでなく、この場所の雰囲気の一部です。**
+**ボカロは、ただの BGM ではなく、このページの空気そのものです。**
 
-特に好きなのは **稲葉曇 / inabakumori** と **DECO\*27**。二人の音楽への思いと、自分が好きな雨の日、青みがかったグレー、少しアニメを思わせる世界観を、このコーナーに集めました。
+特に好きなのは **稲葉曇 / inabakumori** さんと **DECO\*27** さん。お二人の音楽への「好き」と、自分が惹かれる雨の日、青みがかったグレー、ほんのりアニメっぽい空気感を、この場所に詰め込みました。
 
-Weather Observation Station も、その延長にあります。好きな音楽について何かつくりたいと思ったら、いつの間にか一つのサイトになっていました。
+Weather Observation Station も、そこから生まれました。好きな音楽のために何かつくりたいと思っていたら、いつの間にかサイトがひとつ出来上がっていました。
 
-<sub>個人の好みを紹介するコーナーで、公式コラボレーションではありません。リアルタイムの再生や視聴履歴の表示は行いません。</sub>
+<sub>個人の「好き」を紹介する場所で、公式とのコラボではありません。音楽の再生や再生履歴の表示もありません。</sub>
 
-## ツールと制作の進め方
+## 作品のつくり方
 
-コンピューターの知識はまだ基礎的で、大学でコンピューターサイエンスを専攻する予定もありません。**アイデア・機能・デザインは自分で決め、コードの大部分は AI に実装してもらいます。** テストとフィードバックを重ねながら、少しずつ改善しています。
+正直なところ、コンピューターの知識はまだ初歩的で、大学で情報系を専攻するつもりもありません。**アイデアや機能、デザインは自分で決めて、コードの大部分は AI に書いてもらっています。** そのあと自分で試して、気づいたことを伝え、納得できるまで直していきます。
 
-安全性と信頼性を大切にし、複数の高度な AI モデルでコードを相互確認することもありますが、安全性や正しさを**保証できるわけではありません**。
+安全性や安定性も大切にしているので、複数の AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードが安全で正しいと**保証できるわけではありません**。
 
-## プロジェクトを応援する
+## 応援について
 
 **If you enjoy my projects, feel free to support me.**
 
-作品を気に入っていただけたら、無理のない形で応援していただけるとうれしいです。個人の興味から続けている活動ですが、実装や相互確認に複数の高度な AI モデルを使うと、実際に費用がかかります。作品を使ってみること、感想や改善案を送ること、リポジトリにスターを付けることも十分な励みになります。
+どれも趣味でつくっている作品ですが、複数の高度な AI モデルで開発やチェックをすると、それなりに費用がかかります。気に入っていただけたら、無理のない範囲で応援してもらえるとうれしいです。実際に使ってみる、感想を送る、リポジトリにスターを付ける――それだけでも大きな励みになります。
 
-<sub>利用できる支援窓口をまだ確認していないため、寄付先のリンクは掲載していません。</sub>
+<sub>寄付のリンクはまだ載せていません。</sub>
 
 ## 連絡先
 
-作品へのご意見、共通の興味についてのお話、ちょっとしたご挨拶はこちらへ。
+作品の感想や共通の趣味の話、ちょっとしたご挨拶など、気軽にメールしてください。
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
 
@@ -213,7 +213,7 @@ Weather Observation Station も、その延長にあります。好きな音楽�
 
 <p align="center">
   <sub>一冊のノート、雨の窓辺、そして次の問い。</sub><br />
-  <sub>トラッカー、リアルタイム統計、既存キャラクター素材は不使用</sub>
+  <sub>トラッカーも統計もなく、あるのは言葉だけ。</sub>
 </p>
 
 </details>
@@ -227,7 +227,7 @@ Weather Observation Station も、その延長にあります。好きな音楽�
 </p>
 
 <p align="center">
-  Oregon, USA &nbsp; · &nbsp; High school student &nbsp; · &nbsp; Vocaloid listener
+  Oregon, USA &nbsp; · &nbsp; High school student &nbsp; · &nbsp; Vocaloid fan
 </p>
 
 <p align="center">
@@ -240,31 +240,31 @@ Weather Observation Station も、その延長にあります。好きな音楽�
 
 ## About me
 
-Hi, I'm Osage, a high school student from China, now in Oregon. I love pure mathematics, physics, chemistry, and Vocaloid, and I'm improving my English through ELD (English Language Development). I also [build small projects with AI](#tools--workflow).
+Hi, I'm Osage! I'm originally from China and now go to high school in Oregon. Math is my favorite subject, I'm also into physics and chemistry, and I listen to a lot of Vocaloid. I'm still working on my English through ELD (English Language Development) classes. Every now and then, I [build small projects with help from AI](#how-i-make-things).
 
 ## Mathematics & science
 
-**A good question can keep me company for a long time.**
+**One good question can keep me thinking for days.**
 
 I enjoy proving mathematical statements, exploring connections between different ideas, and seeking logical consistency in my reasoning.
 
-I'm drawn to **pure and theoretical mathematics**: algebra, number theory, mathematical analysis, and the structure of proofs. These are interests I'm exploring, not subjects I claim to have mastered. The abstract ideas themselves are a large part of the appeal.
+What draws me most is **pure mathematics**: algebra, number theory, analysis, and the way a proof fits together. I'm still learning all of these, not claiming to have mastered them, but abstract ideas have a pull I can't quite explain.
 
-In **physics and chemistry**, I enjoy both asking why the principles work and exploring them through hands-on experiments.
+The same goes for **physics and chemistry**. I like understanding why things work, and I like testing them with my own hands in experiments.
 
-> A small example of the connections I love: the first odd numbers form a square.
+> A small favorite: add up the odd numbers, starting from 1, and you always get a perfect square.
 >
 > $1 + 3 + \cdots + (2n - 1) = n^2$
 >
-> For any positive integer $n$.
+> This holds for every positive integer $n$.
 
 ## Featured projects
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**A little place on the web for music I love.** An unofficial fan site dedicated to **稲葉曇 / inabakumori**, and the project that most closely reflects my personal taste.
+**A little corner of the web for music I love.** An unofficial fan site for **稲葉曇 / inabakumori**, and the project that feels most like me.
 
-Song information and music links, collected creator updates, an illustration gallery, Chinese / English / Japanese interfaces, account features, a message wall, and customizable visuals.
+It has song information and music links, collected creator updates, an illustration gallery, and Chinese / English / Japanese interfaces, plus accounts, a message wall, and visuals you can customize.
 
 **[Visit the station ↗](https://osagechan.top/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/inabakumori-site)
 
@@ -272,15 +272,15 @@ Song information and music links, collected creator updates, an illustration gal
 
 ### 02 / Eugene Desk
 
-**A calmer place to figure out the school day.** A multilingual student dashboard built around practical needs: timetables, to-dos, GPA estimates, campus and city information, student resources, and personal preferences.
+**Everything for the school day, on one desk.** A multilingual student dashboard built around what students actually need: timetables, to-dos, GPA estimates, campus and city information, student resources, and personal settings, all in one place.
 
-Desk data stays in the current browser, with export / import for backups. GPA results are estimates, not official grades.
+Your data stays in your current browser, and you can export or import it as a backup. GPA results are estimates, not official grades.
 
 **[Open the desk ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/13th-desk)
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-**A small companion, just for the joy of making one.** An unofficial Codex-inspired desktop pet with a cute character design, custom animations, an action demo, and a downloadable resource pack.
+**I just wanted a cute little companion.** An unofficial, Codex-inspired desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
 
 **[Meet the pet ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [Watch the demo](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [Resource pack](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -288,31 +288,31 @@ Desk data stays in the current browser, with export / import for backups. GPA re
 
 ## Music corner
 
-**Vocaloid is part of the atmosphere here, not just background music.**
+**For me, Vocaloid isn't background music. It's the mood of this whole page.**
 
-Two favorites: **稲葉曇 / inabakumori** and **DECO\*27**. This corner brings together my love of their music and my own rainy, blue-gray, slightly anime-inspired visual world.
+My two favorites are **稲葉曇 / inabakumori** and **DECO\*27**. This corner is where my love for their music meets the things I'm drawn to: rainy days, blue-gray tones, and a light anime feel.
 
-That affection is also why Weather Observation Station exists: sometimes liking music turns into making an entire website.
+It's also how Weather Observation Station began. I loved inabakumori's songs so much that, before I knew it, I had made a whole website.
 
-<sub>A personal listening corner, not an official collaboration. No live playback or listening data is displayed.</sub>
+<sub>Just sharing what I love; this is not an official collaboration, and there's no playback or listening history here.</sub>
 
-## Tools & workflow
+## How I make things
 
-My computer knowledge is still basic, and I don't plan to major in computer science. **I choose the ideas, features, and design; AI writes most of the code.** I test, give feedback, and refine the results.
+To be honest, my computer knowledge is still pretty basic, and I don't plan to study computer science in college. **I decide on the ideas, features, and design, and AI writes most of the code.** Then I try things out, give feedback, and keep revising until I'm happy with the result.
 
-I often use multiple advanced AI models to cross-check the code for security and reliability, but that **doesn't guarantee safe or correct code**.
+I care about security and reliability, so I often have several AI models cross-check the code. It helps catch problems, but it **can't guarantee the code is safe or bug-free**.
 
 ## Support my projects
 
 **If you enjoy my projects, feel free to support me.**
 
-These are personal, curiosity-driven projects. Using several advanced AI models for implementation and cross-checking comes with real costs, but there's no pressure to contribute. Trying a project, sharing thoughtful feedback, or starring a repository is already appreciated.
+I make these projects for fun, but using several advanced AI models to write and check the code does cost money. If you'd like to help, I'd really appreciate it, but please don't feel any pressure. Trying a project, sending feedback, or starring a repo means a lot too.
 
-<sub>No donation link is listed here because a support channel has not been verified.</sub>
+<sub>There's no donation link here yet.</sub>
 
 ## Contact
 
-For project feedback, shared interests, or a hello:
+Want to talk about a project, a shared interest, or just say hi? Feel free to email me:
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
 
@@ -320,7 +320,7 @@ For project feedback, shared interests, or a hello:
 
 <p align="center">
   <sub>A notebook, a rainy window, and one more question.</sub><br />
-  <sub>No trackers, live stats, or borrowed character art</sub>
+  <sub>No trackers, no stats, just words.</sub>
 </p>
 
 </details>
