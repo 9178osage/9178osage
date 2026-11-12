@@ -1,7 +1,7 @@
 <h1 align="center">Osage</h1>
 
 <p align="center">
-  <sub>Choose a language · 点击语言展开 · 言語を選んで開く</sub>
+  <sub>Click a language to expand · 点击语言展开 · 言語をクリックして開く</sub>
 </p>
 
 <details>
@@ -29,21 +29,21 @@
 
 ## 关于我
 
-你好，我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（英语语言发展）课程一点点进步。偶尔，我也会[借助 AI 做些小项目](#我怎么做项目)。
+你好，我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）一点点进步。偶尔，我也会[借助 AI 做些小项目](#我怎么做项目)。
 
 ## 我的爱好
 
-我喜欢亲手把一个结论证出来，喜欢发现看似不相关的知识之间藏着的联系，也喜欢把推理一步步理清，让它严谨、自洽。
+我喜欢亲手把一个命题证出来，喜欢发现看似不相关的想法之间藏着的联系，也喜欢把推理一步步理清，让它严谨、自洽。
 
-比起应用，我更偏爱**纯数学**：代数、数论、数学分析，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的东西本身就让我着迷。
+比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
 
 ## 精选项目
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-🌧️ 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
+🌧️ 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最像我的一个项目。
 
-站里有歌曲资料和相关链接、整理后的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
+站里有歌曲资料和音乐链接、整理后的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
@@ -65,9 +65,9 @@
 
 🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
 
-**[认识小辫子酱 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [观看动作演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [获取资源包](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
+**[获取资源包 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
 
-<sub>个人非官方创作，不是 OpenAI 的产品，与 OpenAI 没有关联，也未获其认可。</sub>
+<sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
 
 ## 音乐角落
 
@@ -81,7 +81,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 老实说，我的计算机基础还很浅，大学也不打算学计算机。我的做法是：**想法、功能和设计由我来定，大部分代码交给 AI 写**，然后我自己试用、提意见，一遍遍改到满意为止。
 
-我很在意安全和稳定，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。
+我很在意安全和可靠，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。
 
 ## 支持我的项目
 
@@ -89,7 +89,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 这些项目都是出于兴趣做的，不过同时用好几个高级 AI 模型写代码、做检查，确实会产生一些费用。如果你愿意支持，我会非常开心；当然完全不用有压力——试用一下、提点建议，或者给仓库点个 Star，对我来说都是很大的鼓励。
 
-<sub>这里暂时还没有放赞助链接。</sub>
+<sub>这里暂时还没有放捐赠链接。</sub>
 
 ## 联系我
 
@@ -110,7 +110,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 <summary><strong>🇯🇵 日本語</strong></summary>
 
 <p align="center">
-  <strong>数学が好きな高校生 · Mathematics Enthusiast</strong>
+  <strong>数学好き · Mathematics Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -131,13 +131,13 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ## 自己紹介
 
-はじめまして、Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にも興味があり、ボカロもよく聴きます。英語は ELD（英語学習支援）の授業で少しずつ勉強中です。ときどき [AI の力を借りて、ちょっとした作品もつくっています](#作品のつくり方)。
+はじめまして、Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にも興味があり、ボカロもよく聴きます。英語は ELD（英語学習者向けの英語の授業）で少しずつ勉強中です。ときどき [AI の力を借りて、ちょっとした作品もつくっています](#作品のつくり方)。
 
 ## 好きなこと
 
-命題を自分の手で証明すること、一見関係なさそうな考えどうしのつながりを見つけること、そして推論を一歩ずつ、矛盾なく組み立てることが好きです。
+命題を自分の手で証明すること、一見関係なさそうな考えどうしのつながりを見つけること、そして推論を一歩ずつ、厳密に、矛盾なく組み立てることが好きです。
 
-特に惹かれるのは**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中ですが、抽象的な考えには不思議な魅力を感じます。
+特に惹かれるのは、応用数学よりも**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中で、精通しているわけではありませんが、抽象的な考えには説明しきれない魅力を感じます。
 
 ## 主な作品
 
@@ -145,7 +145,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 🌧️ **稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
 
-楽曲情報や関連リンク、クリエイターの最新情報のまとめ、イラストギャラリー、中・英・日の 3 言語表示のほか、アカウント機能やメッセージウォールもあります。
+楽曲情報や音楽へのリンク、まとめられたクリエイターの動向、イラストギャラリー、中・英・日のインターフェースのほか、アカウント機能やメッセージウォールもあります。
 
 **[観測所へ ↗](https://osagechan.top/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/inabakumori-site)
 
@@ -157,7 +157,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 📚 学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
 
-データはお使いのブラウザーに保存され、エクスポートとインポートでバックアップできます。GPA はあくまで目安で、正式な成績ではありません。
+データは現在お使いのブラウザーに保存され、エクスポートでバックアップし、インポートで復元できます。GPA はあくまで概算で、正式な成績ではありません。
 
 **[デスクを開く ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/13th-desk)
 
@@ -167,15 +167,15 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 🐾 非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
-**[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
+**[素材パック ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
 
-<sub>個人の非公式作品で、OpenAI の公式製品ではありません。OpenAI との提携や承認もありません。</sub>
+<sub>個人の非公式なファン作品で、OpenAI の公式製品ではありません。OpenAI とは無関係で、承認も受けていません。</sub>
 
 ## 音楽のコーナー
 
-特に好きなクリエイターは **稲葉曇 / inabakumori** さんと **DECO\*27** さんです。
+特に好きな二人のクリエイターは **稲葉曇 / inabakumori** さんと **DECO\*27** さんです。
 
-Weather Observation Station も、そこから生まれました。好きな音楽のために何かつくりたいと思っていたら、いつの間にかサイトがひとつ出来上がっていました。
+Weather Observation Station は、そこから生まれました。稲葉曇さんの曲が好きすぎて、気づかないうちにサイトをまるごと作りあげていました。
 
 <sub>個人の「好き」を紹介する場所で、公式とのコラボではありません。音楽の再生や再生履歴の表示もありません。</sub>
 
@@ -183,19 +183,19 @@ Weather Observation Station も、そこから生まれました。好きな音�
 
 正直なところ、コンピューターの知識はまだ初歩的で、大学で情報系を専攻するつもりもありません。**アイデアや機能、デザインは自分で決めて、コードの大部分は AI に書いてもらっています。** そのあと自分で試して、気づいたことを伝え、納得できるまで直していきます。
 
-安全性や安定性も大切にしているので、複数の AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードが安全で正しいと**保証できるわけではありません**。
+安全性や信頼性も大切にしているので、複数の AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードが安全で正しいと**保証できるわけではありません**。
 
 ## 応援について
 
 **If you enjoy my projects, feel free to support me.**
 
-どれも趣味でつくっている作品ですが、複数の高度な AI モデルで開発やチェックをすると、それなりに費用がかかります。気に入っていただけたら、無理のない範囲で応援してもらえるとうれしいです。実際に使ってみる、感想を送る、リポジトリにスターを付ける――それだけでも大きな励みになります。
+どれも趣味でつくっている作品ですが、複数の高度な AI モデルでコードを書いたりチェックしたりすると、それなりに費用がかかります。気に入っていただけたら、無理のない範囲で応援してもらえるとうれしいです。実際に使ってみる、感想を送る、リポジトリにスターを付ける――それだけでも大きな励みになります。
 
 <sub>寄付のリンクはまだ載せていません。</sub>
 
 ## 連絡先
 
-作品の感想や共通の趣味の話、ちょっとしたご挨拶など、気軽にメールしてください。
+作品の話でも、共通の趣味の話でも、ちょっとした挨拶でも、気軽にメールしてください。
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
 
@@ -237,9 +237,9 @@ Hi, I'm Osage! I'm originally from China and now go to high school in Oregon. Ma
 
 ## My interests
 
-I enjoy proving mathematical statements, exploring connections between different ideas, and seeking logical consistency in my reasoning.
+I enjoy proving a statement by hand, finding connections between ideas that seem unrelated, and working through my reasoning step by step until it is rigorous and consistent.
 
-What draws me most is **pure mathematics**: algebra, number theory, analysis, and the way a proof fits together. I'm still learning all of these, not claiming to have mastered them, but abstract ideas have a pull I can't quite explain.
+More than applied math, what draws me is **pure mathematics**: algebra, number theory, analysis, and the way a proof fits together. I'm still learning all of these, not claiming to have mastered them, but abstract ideas have a pull I can't quite explain.
 
 ## Featured projects
 
@@ -259,7 +259,7 @@ It has song information and music links, curated updates from the creator, an il
 
 📚 A multilingual student dashboard built around what students actually need: timetables, to-dos, GPA estimates, campus and city information, student resources, and personal settings, all in one place.
 
-Your data stays in your current browser, and you can export or import it as a backup. GPA results are estimates, not official grades.
+Your data stays in your current browser. You can export a backup and import it to restore. GPA results are estimates, not official grades.
 
 **[Open the desk ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/13th-desk)
 
@@ -269,7 +269,7 @@ Your data stays in your current browser, and you can export or import it as a ba
 
 🐾 This is an unofficial desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
 
-**[Meet the pet ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [Watch the demo](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [Resource pack](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
+**[Resource pack ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
 
 <sub>A personal fan creation; not an official OpenAI product, and not affiliated with or endorsed by OpenAI.</sub>
 
