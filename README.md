@@ -37,9 +37,9 @@
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**给喜欢的音乐，在网上留一个小小的位置。** 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
+这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
 
-站里有歌曲资料和音乐链接、整理好的创作者动态、插画展示和中英日三语界面，还有账号功能、留言墙，以及可以自己调整的视觉效果。
+站里有歌曲资料和音乐链接、整理好的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
@@ -133,9 +133,9 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**好きな音楽のために、ウェブの片隅に小さな居場所を。** **稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
+**稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
 
-楽曲情報や音楽リンク、まとめたクリエイターの近況、イラストギャラリー、中・英・日の 3 言語表示に加えて、アカウント機能やメッセージウォール、見た目のカスタマイズもあります。
+楽曲情報や音楽リンク、まとめたクリエイターの近況、イラストギャラリー、中・英・日の 3 言語表示に加えて、アカウント機能やメッセージウォールもあります。
 
 **[観測所へ ↗](https://osagechan.top/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/inabakumori-site)
 
@@ -229,9 +229,9 @@ What draws me most is **pure mathematics**: algebra, number theory, analysis, an
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**A little corner of the web for music I love.** An unofficial fan site for **稲葉曇 / inabakumori**, and the project that feels most like me.
+An unofficial fan site for **稲葉曇 / inabakumori**, and the project that feels most like me.
 
-It has song information and music links, collected creator updates, an illustration gallery, and Chinese / English / Japanese interfaces, plus accounts, a message wall, and visuals you can customize.
+It has song information and music links, collected creator updates, an illustration gallery, and Chinese / English / Japanese interfaces, plus accounts and a message wall.
 
 **[Visit the station ↗](https://osagechan.top/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/inabakumori-site)
 
