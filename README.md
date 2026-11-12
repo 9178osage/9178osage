@@ -287,6 +287,10 @@ To be honest, my computer knowledge is still pretty basic, and I don't plan to s
 
 I care about security and reliability, so I often have several AI models cross-check the code. It helps catch problems, but it **can't guarantee the code is safe or bug-free**.
 
+<p align="center">
+  <img src="assets/activity-breakdown.svg" width="800" alt="Activity overview showing recently contributed public repositories and the breakdown of code reviews, commits, issues, and pull requests" />
+</p>
+
 ## Support my projects
 
 **If you enjoy my projects, feel free to support me.**
