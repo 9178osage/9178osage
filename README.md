@@ -47,7 +47,7 @@
 
 ### 02 / Eugene Desk
 
-**把上学日的琐碎事情，都收进一张书桌。** 一个从学生日常需要出发的多语言学习面板：课程表、待办事项、GPA 估算、校园和城市信息、学生资源和个人设置，都放在同一个地方。
+一个从学生日常需要出发的多语言学习面板：课程表、待办事项、GPA 估算、校园和城市信息、学生资源和个人设置，都放在同一个地方。
 
 数据保存在你当前使用的浏览器里，可以导出备份，也可以再导入恢复。GPA 只是估算，不等于正式成绩。
 
@@ -143,7 +143,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ### 02 / Eugene Desk
 
-**慌ただしい学校の一日を、ひとつの机の上に。** 学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
+学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
 
 データはお使いのブラウザーに保存され、エクスポートとインポートでバックアップできます。GPA はあくまで目安で、正式な成績ではありません。
 
@@ -239,7 +239,7 @@ It has song information and music links, collected creator updates, an illustrat
 
 ### 02 / Eugene Desk
 
-**Everything for the school day, on one desk.** A multilingual student dashboard built around what students actually need: timetables, to-dos, GPA estimates, campus and city information, student resources, and personal settings, all in one place.
+A multilingual student dashboard built around what students actually need: timetables, to-dos, GPA estimates, campus and city information, student resources, and personal settings, all in one place.
 
 Your data stays in your current browser, and you can export or import it as a backup. GPA results are estimates, not official grades.
 
