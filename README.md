@@ -16,11 +16,15 @@
 </p>
 
 <p align="center">
-  <a href="#关于我">关于我</a> &nbsp; / &nbsp;
-  <a href="#我的爱好">爱好</a> &nbsp; / &nbsp;
-  <a href="#精选项目">项目</a> &nbsp; / &nbsp;
-  <a href="#音乐角落">音乐</a> &nbsp; / &nbsp;
-  <a href="#联系我">联系</a>
+  ∑ 纯数学 &nbsp; · &nbsp; ⚛ 物理与化学 &nbsp; · &nbsp; ♫ Vocaloid &nbsp; · &nbsp; ✨ AI 辅助创作
+</p>
+
+<p align="center">
+  <a href="#关于我">👋 关于我</a> &nbsp; / &nbsp;
+  <a href="#我的爱好">∑ 爱好</a> &nbsp; / &nbsp;
+  <a href="#精选项目">✦ 项目</a> &nbsp; / &nbsp;
+  <a href="#音乐角落">♫ 音乐</a> &nbsp; / &nbsp;
+  <a href="#联系我">✉ 联系</a>
 </p>
 
 ## 关于我
@@ -37,7 +41,7 @@
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
+🌧️ 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
 
 站里有歌曲资料和音乐链接、整理好的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
 
@@ -45,17 +49,21 @@
 
 <sub>个人粉丝作品，与稲葉曇本人、站内插画作者及相关官方厂牌或平台均无关联。</sub>
 
+---
+
 ### 02 / Eugene Desk
 
-一个从学生日常需要出发的多语言学习面板：课程表、待办事项、GPA 估算、校园和城市信息、学生资源和个人设置，都放在同一个地方。
+📚 一个从学生日常需要出发的多语言学习面板：课程表、待办事项、GPA 估算、校园和城市信息、学生资源和个人设置，都放在同一个地方。
 
 数据保存在你当前使用的浏览器里，可以导出备份，也可以再导入恢复。GPA 只是估算，不等于正式成绩。
 
 **[打开书桌 ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/13th-desk)
 
+---
+
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-一只非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
+🐾 一只非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
 
 **[认识小辫子酱 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [观看动作演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [获取资源包](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -110,11 +118,15 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 </p>
 
 <p align="center">
-  <a href="#自己紹介">自己紹介</a> &nbsp; / &nbsp;
-  <a href="#好きなこと">好きなこと</a> &nbsp; / &nbsp;
-  <a href="#主な作品">作品</a> &nbsp; / &nbsp;
-  <a href="#音楽のコーナー">音楽</a> &nbsp; / &nbsp;
-  <a href="#連絡先">連絡先</a>
+  ∑ 純粋数学 &nbsp; · &nbsp; ⚛ 物理・化学 &nbsp; · &nbsp; ♫ ボカロ &nbsp; · &nbsp; ✨ AI を活用した創作
+</p>
+
+<p align="center">
+  <a href="#自己紹介">👋 自己紹介</a> &nbsp; / &nbsp;
+  <a href="#好きなこと">∑ 好きなこと</a> &nbsp; / &nbsp;
+  <a href="#主な作品">✦ 作品</a> &nbsp; / &nbsp;
+  <a href="#音楽のコーナー">♫ 音楽</a> &nbsp; / &nbsp;
+  <a href="#連絡先">✉ 連絡先</a>
 </p>
 
 ## 自己紹介
@@ -131,7 +143,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
+🌧️ **稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
 
 楽曲情報や音楽リンク、まとめたクリエイターの近況、イラストギャラリー、中・英・日の 3 言語表示に加えて、アカウント機能やメッセージウォールもあります。
 
@@ -139,17 +151,21 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 <sub>個人のファン活動です。稲葉曇さん、掲載イラストの作者、公式レーベルや各プラットフォームとは関係ありません。</sub>
 
+---
+
 ### 02 / Eugene Desk
 
-学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
+📚 学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
 
 データはお使いのブラウザーに保存され、エクスポートとインポートでバックアップできます。GPA はあくまで目安で、正式な成績ではありません。
 
 **[デスクを開く ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/13th-desk)
 
+---
+
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
+🐾 非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
 **[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -204,11 +220,15 @@ Weather Observation Station も、そこから生まれました。好きな音�
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> &nbsp; / &nbsp;
-  <a href="#my-interests">Interests</a> &nbsp; / &nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp; / &nbsp;
-  <a href="#music-corner">Music</a> &nbsp; / &nbsp;
-  <a href="#contact">Contact</a>
+  ∑ Pure mathematics &nbsp; · &nbsp; ⚛ Physics & chemistry &nbsp; · &nbsp; ♫ Vocaloid &nbsp; · &nbsp; ✨ AI-assisted projects
+</p>
+
+<p align="center">
+  <a href="#about-me">👋 About</a> &nbsp; / &nbsp;
+  <a href="#my-interests">∑ Interests</a> &nbsp; / &nbsp;
+  <a href="#featured-projects">✦ Projects</a> &nbsp; / &nbsp;
+  <a href="#music-corner">♫ Music</a> &nbsp; / &nbsp;
+  <a href="#contact">✉ Contact</a>
 </p>
 
 ## About me
@@ -225,7 +245,7 @@ What draws me most is **pure mathematics**: algebra, number theory, analysis, an
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-An unofficial fan site for **稲葉曇 / inabakumori**, and the project that feels most like me.
+🌧️ An unofficial fan site for **稲葉曇 / inabakumori**, and the project that feels most like me.
 
 It has song information and music links, collected creator updates, an illustration gallery, and Chinese / English / Japanese interfaces, plus accounts and a message wall.
 
@@ -233,17 +253,21 @@ It has song information and music links, collected creator updates, an illustrat
 
 <sub>A personal fan project; not affiliated with inabakumori, the featured illustrators, or any official label or platform.</sub>
 
+---
+
 ### 02 / Eugene Desk
 
-A multilingual student dashboard built around what students actually need: timetables, to-dos, GPA estimates, campus and city information, student resources, and personal settings, all in one place.
+📚 A multilingual student dashboard built around what students actually need: timetables, to-dos, GPA estimates, campus and city information, student resources, and personal settings, all in one place.
 
 Your data stays in your current browser, and you can export or import it as a backup. GPA results are estimates, not official grades.
 
 **[Open the desk ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/13th-desk)
 
+---
+
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-An unofficial desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
+🐾 An unofficial desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
 
 **[Meet the pet ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [Watch the demo](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [Resource pack](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 

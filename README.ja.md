@@ -9,11 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="#自己紹介">自己紹介</a> &nbsp; / &nbsp;
-  <a href="#好きなこと">好きなこと</a> &nbsp; / &nbsp;
-  <a href="#主な作品">作品</a> &nbsp; / &nbsp;
-  <a href="#音楽のコーナー">音楽</a> &nbsp; / &nbsp;
-  <a href="#連絡先">連絡先</a>
+  ∑ 純粋数学 &nbsp; · &nbsp; ⚛ 物理・化学 &nbsp; · &nbsp; ♫ ボカロ &nbsp; · &nbsp; ✨ AI を活用した創作
+</p>
+
+<p align="center">
+  <a href="#自己紹介">👋 自己紹介</a> &nbsp; / &nbsp;
+  <a href="#好きなこと">∑ 好きなこと</a> &nbsp; / &nbsp;
+  <a href="#主な作品">✦ 作品</a> &nbsp; / &nbsp;
+  <a href="#音楽のコーナー">♫ 音楽</a> &nbsp; / &nbsp;
+  <a href="#連絡先">✉ 連絡先</a>
 </p>
 
 ## 自己紹介
@@ -30,7 +34,7 @@
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-**稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
+🌧️ **稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
 
 楽曲情報や音楽リンク、まとめたクリエイターの近況、イラストギャラリー、中・英・日の 3 言語表示に加えて、アカウント機能やメッセージウォールもあります。
 
@@ -38,17 +42,21 @@
 
 <sub>個人のファン活動です。稲葉曇さん、掲載イラストの作者、公式レーベルや各プラットフォームとは関係ありません。</sub>
 
+---
+
 ### 02 / Eugene Desk
 
-学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
+📚 学生の毎日に必要なものから考えた、多言語の学習ダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
 
 データはお使いのブラウザーに保存され、エクスポートとインポートでバックアップできます。GPA はあくまで目安で、正式な成績ではありません。
 
 **[デスクを開く ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/13th-desk)
 
+---
+
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
+🐾 非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
 **[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
