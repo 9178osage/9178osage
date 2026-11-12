@@ -55,7 +55,7 @@
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-一只受 Codex 启发的非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
+一只非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
 
 **[认识小辫子酱 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [观看动作演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [获取资源包](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -149,7 +149,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
+非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
 **[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -243,7 +243,7 @@ Your data stays in your current browser, and you can export or import it as a ba
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-An unofficial, Codex-inspired desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
+An unofficial desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
 
 **[Meet the pet ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [Watch the demo](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [Resource pack](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 

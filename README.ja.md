@@ -48,7 +48,7 @@
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
+非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
 **[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
