@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#关于我">关于我</a> &nbsp; / &nbsp;
-  <a href="#数学与自然科学">数学</a> &nbsp; / &nbsp;
+  <a href="#我的爱好">爱好</a> &nbsp; / &nbsp;
   <a href="#精选项目">项目</a> &nbsp; / &nbsp;
   <a href="#音乐角落">音乐</a> &nbsp; / &nbsp;
   <a href="#联系我">联系</a>
@@ -28,7 +28,7 @@
 
 你好，我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（英语语言发展）课程一点点进步。偶尔，我也会[借助 AI 做些小项目](#我怎么做项目)。
 
-## 数学与自然科学
+## 我的爱好
 
 **一个好问题，足够我琢磨很久。**
 
@@ -127,7 +127,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 <p align="center">
   <a href="#自己紹介">自己紹介</a> &nbsp; / &nbsp;
-  <a href="#数学と自然科学">数学</a> &nbsp; / &nbsp;
+  <a href="#好きなこと">好きなこと</a> &nbsp; / &nbsp;
   <a href="#主な作品">作品</a> &nbsp; / &nbsp;
   <a href="#音楽のコーナー">音楽</a> &nbsp; / &nbsp;
   <a href="#連絡先">連絡先</a>
@@ -137,7 +137,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 はじめまして、Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にも興味があり、ボカロもよく聴きます。英語は ELD（英語学習支援）の授業で少しずつ勉強中です。ときどき [AI の力を借りて、ちょっとした作品もつくっています](#作品のつくり方)。
 
-## 数学と自然科学
+## 好きなこと
 
 **いい問いがひとつあれば、いつまでも考えていられます。**
 
@@ -236,7 +236,7 @@ Weather Observation Station も、そこから生まれました。好きな音�
 
 <p align="center">
   <a href="#about-me">About</a> &nbsp; / &nbsp;
-  <a href="#mathematics--science">Mathematics</a> &nbsp; / &nbsp;
+  <a href="#my-interests">Interests</a> &nbsp; / &nbsp;
   <a href="#featured-projects">Projects</a> &nbsp; / &nbsp;
   <a href="#music-corner">Music</a> &nbsp; / &nbsp;
   <a href="#contact">Contact</a>
@@ -246,7 +246,7 @@ Weather Observation Station も、そこから生まれました。好きな音�
 
 Hi, I'm Osage! I'm originally from China and now go to high school in Oregon. Math is my favorite subject, I'm also into physics and chemistry, and I listen to a lot of Vocaloid. I'm still working on my English through ELD (English Language Development) classes. Every now and then, I [build small projects with help from AI](#how-i-make-things).
 
-## Mathematics & science
+## My interests
 
 **One good question can keep me thinking for days.**
 
