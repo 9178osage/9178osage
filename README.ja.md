@@ -48,7 +48,7 @@
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-**かわいい相棒がほしくて、つくってみました。** Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
+Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
 **[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -56,9 +56,7 @@
 
 ## 音楽のコーナー
 
-**ボカロは、ただの BGM ではなく、このページの空気そのものです。**
-
-特に好きなのは **稲葉曇 / inabakumori** さんと **DECO\*27** さん。お二人の音楽への「好き」と、自分が惹かれる雨の日、青みがかったグレー、ほんのりアニメっぽい空気感を、この場所に詰め込みました。
+特に好きなのは **稲葉曇 / inabakumori** さんと **DECO\*27** さん。
 
 Weather Observation Station も、そこから生まれました。好きな音楽のために何かつくりたいと思っていたら、いつの間にかサイトがひとつ出来上がっていました。
 

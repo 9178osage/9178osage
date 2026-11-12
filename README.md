@@ -55,7 +55,7 @@
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-**只是想做一个可爱的小伙伴。** 一只受 Codex 启发的非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
+一只受 Codex 启发的非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
 
 **[认识小辫子酱 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [观看动作演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [获取资源包](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -63,9 +63,7 @@
 
 ## 音乐角落
 
-**对我来说，V 家的歌不只是背景音乐，也是这个主页的底色。**
-
-最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。我把对他们音乐的喜欢，连同自己偏爱的雨天、蓝灰色和一点点二次元气息，一起放进了这个角落。
+最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
 Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌，不知不觉就做出了一整个网站。
 
@@ -151,7 +149,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-**かわいい相棒がほしくて、つくってみました。** Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
+Codex から着想を得た非公式のデスクトップペットです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
 **[小辫子酱に会う ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [動作デモ](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [素材パック](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -159,9 +157,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ## 音楽のコーナー
 
-**ボカロは、ただの BGM ではなく、このページの空気そのものです。**
-
-特に好きなのは **稲葉曇 / inabakumori** さんと **DECO\*27** さん。お二人の音楽への「好き」と、自分が惹かれる雨の日、青みがかったグレー、ほんのりアニメっぽい空気感を、この場所に詰め込みました。
+特に好きなのは **稲葉曇 / inabakumori** さんと **DECO\*27** さん。
 
 Weather Observation Station も、そこから生まれました。好きな音楽のために何かつくりたいと思っていたら、いつの間にかサイトがひとつ出来上がっていました。
 
@@ -247,7 +243,7 @@ Your data stays in your current browser, and you can export or import it as a ba
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-**I just wanted a cute little companion.** An unofficial, Codex-inspired desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
+An unofficial, Codex-inspired desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
 
 **[Meet the pet ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [Watch the demo](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [Resource pack](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -255,9 +251,7 @@ Your data stays in your current browser, and you can export or import it as a ba
 
 ## Music corner
 
-**For me, Vocaloid isn't background music. It's the mood of this whole page.**
-
-My two favorites are **稲葉曇 / inabakumori** and **DECO\*27**. This corner is where my love for their music meets the things I'm drawn to: rainy days, blue-gray tones, and a light anime feel.
+My two favorites are **稲葉曇 / inabakumori** and **DECO\*27**.
 
 It's also how Weather Observation Station began. I loved inabakumori's songs so much that, before I knew it, I had made a whole website.
 
