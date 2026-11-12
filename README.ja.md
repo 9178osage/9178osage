@@ -89,10 +89,3 @@ Weather Observation Station は、そこから生まれました。稲葉曇さ�
 作品の話でも、共通の趣味の話でも、ちょっとした挨拶でも、気軽にメールしてください。
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
-
----
-
-<p align="center">
-  <sub>一冊のノート、雨の窓辺、そして次の問い。</sub><br />
-  <sub>トラッカーも統計もなく、あるのは言葉だけ。</sub>
-</p>

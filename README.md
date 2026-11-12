@@ -97,13 +97,6 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
 
----
-
-<p align="center">
-  <sub>一本笔记，一扇雨窗，还有下一个问题。</sub><br />
-  <sub>没有追踪器，也没有统计，只有文字。</sub>
-</p>
-
 </details>
 
 <details>
@@ -198,13 +191,6 @@ Weather Observation Station は、そこから生まれました。稲葉曇さ�
 作品の話でも、共通の趣味の話でも、ちょっとした挨拶でも、気軽にメールしてください。
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
-
----
-
-<p align="center">
-  <sub>一冊のノート、雨の窓辺、そして次の問い。</sub><br />
-  <sub>トラッカーも統計もなく、あるのは言葉だけ。</sub>
-</p>
 
 </details>
 
@@ -315,12 +301,5 @@ I make these projects for fun, but using several advanced AI models to write and
 Want to talk about a project, a shared interest, or just say hi? Feel free to email me:
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
-
----
-
-<p align="center">
-  <sub>A notebook, a rainy window, and one more question.</sub><br />
-  <sub>No trackers, no stats, just words.</sub>
-</p>
 
 </details>

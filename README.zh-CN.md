@@ -89,10 +89,3 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 想聊聊项目、共同的爱好，或者只是打个招呼，都欢迎给我发邮件：
 
 **[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; [GitHub / 9178osage](https://github.com/9178osage)
-
----
-
-<p align="center">
-  <sub>一本笔记，一扇雨窗，还有下一个问题。</sub><br />
-  <sub>没有追踪器，也没有统计，只有文字。</sub>
-</p>
