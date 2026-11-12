@@ -30,8 +30,6 @@
 
 ## 我的爱好
 
-**一个好问题，足够我琢磨很久。**
-
 我喜欢亲手把一个结论证出来，喜欢发现看似不相关的知识之间藏着的联系，也喜欢把推理一步步理清，让它严谨、自洽。
 
 比起应用，我更偏爱**纯数学**：代数、数论、数学分析，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的东西本身就让我着迷。
@@ -139,8 +137,6 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ## 好きなこと
 
-**いい問いがひとつあれば、いつまでも考えていられます。**
-
 命題を自分の手で証明すること、一見関係なさそうな考えどうしのつながりを見つけること、そして推論を一歩ずつ、矛盾なく組み立てることが好きです。
 
 特に惹かれるのは**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中ですが、抽象的な考えには不思議な魅力を感じます。
@@ -247,8 +243,6 @@ Weather Observation Station も、そこから生まれました。好きな音�
 Hi, I'm Osage! I'm originally from China and now go to high school in Oregon. Math is my favorite subject, I'm also into physics and chemistry, and I listen to a lot of Vocaloid. I'm still working on my English through ELD (English Language Development) classes. Every now and then, I [build small projects with help from AI](#how-i-make-things).
 
 ## My interests
-
-**One good question can keep me thinking for days.**
 
 I enjoy proving mathematical statements, exploring connections between different ideas, and seeking logical consistency in my reasoning.
 
