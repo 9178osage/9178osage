@@ -1,8 +1,7 @@
 <h1 align="center">Osage</h1>
 
 <p align="center">
-  <strong>数学爱好者 · Mathematics Enthusiast</strong><br />
-  <em>喜欢证明，喜欢把想法串起来，也喜欢做点有意思的小东西。</em>
+  <strong>数学爱好者 · Mathematics Enthusiast</strong>
 </p>
 
 <p align="center">

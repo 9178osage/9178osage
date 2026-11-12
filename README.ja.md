@@ -1,8 +1,7 @@
 <h1 align="center">Osage</h1>
 
 <p align="center">
-  <strong>数学が好きな高校生 · Mathematics Enthusiast</strong><br />
-  <em>証明すること、考えをつなぐこと、好奇心のままに何かをつくること。</em>
+  <strong>数学が好きな高校生 · Mathematics Enthusiast</strong>
 </p>
 
 <p align="center">

@@ -8,8 +8,7 @@
 <summary><strong>🇨🇳 简体中文</strong></summary>
 
 <p align="center">
-  <strong>数学爱好者 · Mathematics Enthusiast</strong><br />
-  <em>喜欢证明，喜欢把想法串起来，也喜欢做点有意思的小东西。</em>
+  <strong>数学爱好者 · Mathematics Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -105,8 +104,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 <summary><strong>🇯🇵 日本語</strong></summary>
 
 <p align="center">
-  <strong>数学が好きな高校生 · Mathematics Enthusiast</strong><br />
-  <em>証明すること、考えをつなぐこと、好奇心のままに何かをつくること。</em>
+  <strong>数学が好きな高校生 · Mathematics Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -202,8 +200,7 @@ Weather Observation Station も、そこから生まれました。好きな音�
 <summary><strong>🇺🇸 English</strong></summary>
 
 <p align="center">
-  <strong>Mathematics Enthusiast</strong><br />
-  <em>Proving things, connecting ideas, and building curious projects.</em>
+  <strong>Mathematics Enthusiast</strong>
 </p>
 
 <p align="center">
