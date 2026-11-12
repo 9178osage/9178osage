@@ -34,16 +34,6 @@
 
 比起应用，我更偏爱**纯数学**：代数、数论、数学分析，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的东西本身就让我着迷。
 
-**物理和化学**也是一样：我既想弄明白背后的原理，也喜欢亲手做实验看看。
-
-> **奇数求和恒等式**
->
-> *从简单的规律，得到完美平方*
->
-> $\displaystyle \sum_{k=1}^{n}(2k - 1) = n^2$
->
-> 对任意正整数 $n$ 都成立。
-
 ## 精选项目
 
 ### 01 / Weather Observation Station · 稲葉曇
@@ -141,16 +131,6 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 特に惹かれるのは**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中ですが、抽象的な考えには不思議な魅力を感じます。
 
-**物理や化学**も同じで、原理を理解するのも、実際に手を動かして実験するのも好きです。
-
-> **奇数和の恒等式**
->
-> *シンプルな規則から、きれいな平方数へ*
->
-> $\displaystyle \sum_{k=1}^{n}(2k - 1) = n^2$
->
-> どんな正の整数 $n$ に対しても成り立ちます。
-
 ## 主な作品
 
 ### 01 / Weather Observation Station · 稲葉曇
@@ -247,16 +227,6 @@ Hi, I'm Osage! I'm originally from China and now go to high school in Oregon. Ma
 I enjoy proving mathematical statements, exploring connections between different ideas, and seeking logical consistency in my reasoning.
 
 What draws me most is **pure mathematics**: algebra, number theory, analysis, and the way a proof fits together. I'm still learning all of these, not claiming to have mastered them, but abstract ideas have a pull I can't quite explain.
-
-The same goes for **physics and chemistry**. I like understanding why things work, and I like testing them with my own hands in experiments.
-
-> **THE ODD-SUM IDENTITY**
->
-> *A simple pattern, ending in a perfect square*
->
-> $\displaystyle \sum_{k=1}^{n}(2k - 1) = n^2$
->
-> For every positive integer $n$.
 
 ## Featured projects
 
