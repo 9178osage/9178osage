@@ -172,7 +172,7 @@ def check_local():
                 if unquote(parts.fragment) not in ids:
                     errors.append(f"{path.name}: missing heading: {link}")
 
-    # Validate any SVG assets.
+    # The profile currently has no images; validate any SVGs added later.
     assets = sorted((ROOT / "assets").glob("*.svg"))
     for path in assets:
         try:

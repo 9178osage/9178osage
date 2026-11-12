@@ -287,9 +287,20 @@ To be honest, my computer knowledge is still pretty basic, and I don't plan to s
 
 I care about security and reliability, so I often have several AI models cross-check the code. It helps catch problems, but it **can't guarantee the code is safe or bug-free**.
 
-<p align="center">
-  <img src="assets/activity-breakdown.svg" width="800" alt="Activity overview showing recently contributed public repositories and the breakdown of code reviews, commits, issues, and pull requests" />
-</p>
+## Activity overview
+
+<!-- activity-overview:start -->
+**Contributed to:** [9178osage/inabakumori-site](https://github.com/9178osage/inabakumori-site) · [9178osage/13th-desk](https://github.com/9178osage/13th-desk) · [9178osage/luopian](https://github.com/9178osage/luopian) · and 2 other public repositories
+
+**Public activity · rolling 12 months**
+
+| Contribution type | Count | Share |
+| --- | ---: | ---: |
+| Code review | 0 | 0% |
+| Commits | 1017 | 100% |
+| Issues | 0 | 0% |
+| Pull requests | 0 | 0% |
+<!-- activity-overview:end -->
 
 ## Support my projects
 
