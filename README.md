@@ -43,7 +43,7 @@
 
 🌧️ 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
 
-站里有歌曲资料和音乐链接、整理好的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
+站里有歌曲资料和相关链接、整理后的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
@@ -63,7 +63,7 @@
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-🐾 一只非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
+🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
 
 **[认识小辫子酱 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [观看动作演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [获取资源包](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
@@ -145,7 +145,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 🌧️ **稲葉曇 / inabakumori** さんの非公式ファンサイトで、自分らしさがいちばん出ている作品です。
 
-楽曲情報や音楽リンク、まとめたクリエイターの近況、イラストギャラリー、中・英・日の 3 言語表示に加えて、アカウント機能やメッセージウォールもあります。
+楽曲情報や関連リンク、クリエイターの最新情報のまとめ、イラストギャラリー、中・英・日の 3 言語表示のほか、アカウント機能やメッセージウォールもあります。
 
 **[観測所へ ↗](https://osagechan.top/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/inabakumori-site)
 
@@ -173,7 +173,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ## 音楽のコーナー
 
-特に好きなのは **稲葉曇 / inabakumori** さんと **DECO\*27** さん。
+特に好きなクリエイターは **稲葉曇 / inabakumori** さんと **DECO\*27** さんです。
 
 Weather Observation Station も、そこから生まれました。好きな音楽のために何かつくりたいと思っていたら、いつの間にかサイトがひとつ出来上がっていました。
 
@@ -233,7 +233,7 @@ Weather Observation Station も、そこから生まれました。好きな音�
 
 ## About me
 
-Hi, I'm Osage! I'm originally from China and now go to high school in Oregon. Math is my favorite subject, I'm also into physics and chemistry, and I listen to a lot of Vocaloid. I'm still working on my English through ELD (English Language Development) classes. Every now and then, I [build small projects with help from AI](#how-i-make-things).
+Hi, I'm Osage! I'm originally from China and now go to high school in Oregon. Math is my favorite subject. I'm also into physics and chemistry, and I listen to a lot of Vocaloid. I'm still working on my English through ELD (English Language Development) classes. Every now and then, I [build small projects with help from AI](#how-i-make-things).
 
 ## My interests
 
@@ -247,7 +247,7 @@ What draws me most is **pure mathematics**: algebra, number theory, analysis, an
 
 🌧️ An unofficial fan site for **稲葉曇 / inabakumori**, and the project that feels most like me.
 
-It has song information and music links, collected creator updates, an illustration gallery, and Chinese / English / Japanese interfaces, plus accounts and a message wall.
+It has song information and music links, curated updates from the creator, an illustration gallery, and Chinese / English / Japanese interfaces, plus accounts and a message wall.
 
 **[Visit the station ↗](https://osagechan.top/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/inabakumori-site)
 
@@ -267,7 +267,7 @@ Your data stays in your current browser, and you can export or import it as a ba
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-🐾 An unofficial desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
+🐾 This is an unofficial desktop pet with a cute character and custom animations, plus an action demo and a downloadable resource pack.
 
 **[Meet the pet ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [Watch the demo](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [Resource pack](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 

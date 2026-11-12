@@ -36,7 +36,7 @@
 
 🌧️ 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最能代表我个人审美的一个项目。
 
-站里有歌曲资料和音乐链接、整理好的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
+站里有歌曲资料和相关链接、整理后的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
@@ -56,7 +56,7 @@
 
 ### 03 / 小辫子酱 · Codex Desktop Pet
 
-🐾 一只非官方桌面宠物，有可爱的角色形象和自定义动画，还附上了动作演示和可以下载的资源包。
+🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
 
 **[认识小辫子酱 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)** &nbsp; · &nbsp; [观看动作演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) &nbsp; · &nbsp; [获取资源包](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)
 
