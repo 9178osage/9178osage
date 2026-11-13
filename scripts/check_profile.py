@@ -104,7 +104,7 @@ def check_inline_languages(text, html):
         if not source.is_file():
             continue  # The regular document check reports missing sources.
         standalone = re.sub(
-            r"\A\s*<h1\b[^>]*>.*?</h1>\s*", "",
+            r"\A\s*(?:<p\b[^>]*>\s*<img\b[^>]*>\s*</p>\s*)?<h1\b[^>]*>.*?</h1>\s*", "",
             source.read_text(encoding="utf-8"), count=1, flags=re.DOTALL,
         )
         if body.strip() != standalone.strip():
