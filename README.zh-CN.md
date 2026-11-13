@@ -1,25 +1,5 @@
 <h1 align="center">Osage</h1>
 
-<p align="center">
-  <strong>数学爱好者 · Mathematics Enthusiast</strong>
-</p>
-
-<p align="center">
-  美国俄勒冈州 &nbsp; · &nbsp; 高中生 &nbsp; · &nbsp; 爱听 V 家
-</p>
-
-<p align="center">
-  ∑ 纯数学 &nbsp; · &nbsp; ⚛ 物理与化学 &nbsp; · &nbsp; ♫ Vocaloid &nbsp; · &nbsp; ✨ AI 辅助创作
-</p>
-
-<p align="center">
-  <a href="#关于我">👋 关于我</a> &nbsp; / &nbsp;
-  <a href="#我的爱好">∑ 爱好</a> &nbsp; / &nbsp;
-  <a href="#项目">✦ 项目</a> &nbsp; / &nbsp;
-  <a href="#音乐">♫ 音乐</a> &nbsp; / &nbsp;
-  <a href="#联系我">✉ 联系</a>
-</p>
-
 ## 关于我
 
 我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是[借助 AI 完成的](#我怎么做项目)。

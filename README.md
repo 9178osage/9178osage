@@ -7,26 +7,6 @@
 <details>
 <summary><strong>🇨🇳 简体中文</strong></summary>
 
-<p align="center">
-  <strong>数学爱好者 · Mathematics Enthusiast</strong>
-</p>
-
-<p align="center">
-  美国俄勒冈州 &nbsp; · &nbsp; 高中生 &nbsp; · &nbsp; 爱听 V 家
-</p>
-
-<p align="center">
-  ∑ 纯数学 &nbsp; · &nbsp; ⚛ 物理与化学 &nbsp; · &nbsp; ♫ Vocaloid &nbsp; · &nbsp; ✨ AI 辅助创作
-</p>
-
-<p align="center">
-  <a href="#关于我">👋 关于我</a> &nbsp; / &nbsp;
-  <a href="#我的爱好">∑ 爱好</a> &nbsp; / &nbsp;
-  <a href="#项目">✦ 项目</a> &nbsp; / &nbsp;
-  <a href="#音乐">♫ 音乐</a> &nbsp; / &nbsp;
-  <a href="#联系我">✉ 联系</a>
-</p>
-
 ## 关于我
 
 我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是[借助 AI 完成的](#我怎么做项目)。
@@ -102,26 +82,6 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 <details>
 <summary><strong>🇯🇵 日本語</strong></summary>
 
-<p align="center">
-  <strong>数学好き · Mathematics Enthusiast</strong>
-</p>
-
-<p align="center">
-  米国オレゴン州 &nbsp; · &nbsp; 高校生 &nbsp; · &nbsp; ボカロ好き
-</p>
-
-<p align="center">
-  ∑ 純粋数学 &nbsp; · &nbsp; ⚛ 物理・化学 &nbsp; · &nbsp; ♫ ボカロ &nbsp; · &nbsp; ✨ AI を活用した創作
-</p>
-
-<p align="center">
-  <a href="#自己紹介">👋 自己紹介</a> &nbsp; / &nbsp;
-  <a href="#好きなこと">∑ 好きなこと</a> &nbsp; / &nbsp;
-  <a href="#プロジェクト">✦ プロジェクト</a> &nbsp; / &nbsp;
-  <a href="#音楽">♫ 音楽</a> &nbsp; / &nbsp;
-  <a href="#連絡先">✉ 連絡先</a>
-</p>
-
 ## 自己紹介
 
 Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にも興味があり、普段からボカロをよく聴きます。英語は ELD（英語学習者向けの英語の授業）を通じて少しずつ上達中です。プロジェクトの多くは [AI の力を借りて作っています](#作品のつくり方)。
@@ -196,26 +156,6 @@ Weather Observation Station は、そこから生まれました。稲葉曇さ�
 
 <details open>
 <summary><strong>🇺🇸 English</strong></summary>
-
-<p align="center">
-  <strong>Mathematics Enthusiast</strong>
-</p>
-
-<p align="center">
-  Oregon, USA &nbsp; · &nbsp; High school student &nbsp; · &nbsp; Vocaloid fan
-</p>
-
-<p align="center">
-  ∑ Pure mathematics &nbsp; · &nbsp; ⚛ Physics & chemistry &nbsp; · &nbsp; ♫ Vocaloid &nbsp; · &nbsp; ✨ AI-assisted projects
-</p>
-
-<p align="center">
-  <a href="#about-me">👋 About</a> &nbsp; / &nbsp;
-  <a href="#my-interests">∑ Interests</a> &nbsp; / &nbsp;
-  <a href="#projects">✦ Projects</a> &nbsp; / &nbsp;
-  <a href="#music">♫ Music</a> &nbsp; / &nbsp;
-  <a href="#contact">✉ Contact</a>
-</p>
 
 ## About me
 

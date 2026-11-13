@@ -1,25 +1,5 @@
 <h1 align="center">Osage</h1>
 
-<p align="center">
-  <strong>数学好き · Mathematics Enthusiast</strong>
-</p>
-
-<p align="center">
-  米国オレゴン州 &nbsp; · &nbsp; 高校生 &nbsp; · &nbsp; ボカロ好き
-</p>
-
-<p align="center">
-  ∑ 純粋数学 &nbsp; · &nbsp; ⚛ 物理・化学 &nbsp; · &nbsp; ♫ ボカロ &nbsp; · &nbsp; ✨ AI を活用した創作
-</p>
-
-<p align="center">
-  <a href="#自己紹介">👋 自己紹介</a> &nbsp; / &nbsp;
-  <a href="#好きなこと">∑ 好きなこと</a> &nbsp; / &nbsp;
-  <a href="#プロジェクト">✦ プロジェクト</a> &nbsp; / &nbsp;
-  <a href="#音楽">♫ 音楽</a> &nbsp; / &nbsp;
-  <a href="#連絡先">✉ 連絡先</a>
-</p>
-
 ## 自己紹介
 
 Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にも興味があり、普段からボカロをよく聴きます。英語は ELD（英語学習者向けの英語の授業）を通じて少しずつ上達中です。プロジェクトの多くは [AI の力を借りて作っています](#作品のつくり方)。
