@@ -73,6 +73,8 @@
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
+Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌。
+
 <sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
 ## 我怎么做项目
@@ -165,6 +167,8 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 ## 音楽
 
 特に好きな二人のクリエイターは **稲葉曇 / inabakumori** さんと **DECO\*27** さんです。
+
+Weather Observation Station は、そこから生まれました。稲葉曇さんの曲が好きすぎたからです。
 
 <sub>個人の「好き」を紹介する場所で、公式とのコラボではありません。音楽の再生や再生履歴の表示もありません。</sub>
 
@@ -259,7 +263,7 @@ Your data stays in your current browser. You can export a backup and import it t
 
 My two favorites are **稲葉曇 / inabakumori** and **DECO\*27**.
 
-It's also how Weather Observation Station began. I loved inabakumori's songs so much that, before I knew it, I had made a whole website.
+It's also how Weather Observation Station began, because I loved inabakumori's songs so much.
 
 <sub>Just sharing what I love; this is not an official collaboration, and there's no playback or listening history here.</sub>
 
