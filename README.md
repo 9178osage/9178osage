@@ -23,7 +23,7 @@
   <a href="#关于我">👋 关于我</a> &nbsp; / &nbsp;
   <a href="#我的爱好">∑ 爱好</a> &nbsp; / &nbsp;
   <a href="#精选项目">✦ 项目</a> &nbsp; / &nbsp;
-  <a href="#音乐角落">♫ 音乐</a> &nbsp; / &nbsp;
+  <a href="#音乐">♫ 音乐</a> &nbsp; / &nbsp;
   <a href="#联系我">✉ 联系</a>
 </p>
 
@@ -69,7 +69,7 @@
 
 <sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
 
-## 音乐角落
+## 音乐
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
@@ -118,7 +118,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
   <a href="#自己紹介">👋 自己紹介</a> &nbsp; / &nbsp;
   <a href="#好きなこと">∑ 好きなこと</a> &nbsp; / &nbsp;
   <a href="#主な作品">✦ 作品</a> &nbsp; / &nbsp;
-  <a href="#音楽のコーナー">♫ 音楽</a> &nbsp; / &nbsp;
+  <a href="#音楽">♫ 音楽</a> &nbsp; / &nbsp;
   <a href="#連絡先">✉ 連絡先</a>
 </p>
 
@@ -164,7 +164,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 <sub>個人の非公式なファン作品で、OpenAI の公式製品ではありません。OpenAI とは無関係で、承認も受けていません。</sub>
 
-## 音楽のコーナー
+## 音楽
 
 特に好きな二人のクリエイターは **稲葉曇 / inabakumori** さんと **DECO\*27** さんです。
 
@@ -213,7 +213,7 @@ Weather Observation Station は、そこから生まれました。稲葉曇さ�
   <a href="#about-me">👋 About</a> &nbsp; / &nbsp;
   <a href="#my-interests">∑ Interests</a> &nbsp; / &nbsp;
   <a href="#featured-projects">✦ Projects</a> &nbsp; / &nbsp;
-  <a href="#music-corner">♫ Music</a> &nbsp; / &nbsp;
+  <a href="#music">♫ Music</a> &nbsp; / &nbsp;
   <a href="#contact">✉ Contact</a>
 </p>
 
@@ -259,7 +259,7 @@ Your data stays in your current browser. You can export a backup and import it t
 
 <sub>A personal fan creation; not an official OpenAI product, and not affiliated with or endorsed by OpenAI.</sub>
 
-## Music corner
+## Music
 
 My two favorites are **稲葉曇 / inabakumori** and **DECO\*27**.
 

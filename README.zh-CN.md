@@ -16,7 +16,7 @@
   <a href="#关于我">👋 关于我</a> &nbsp; / &nbsp;
   <a href="#我的爱好">∑ 爱好</a> &nbsp; / &nbsp;
   <a href="#精选项目">✦ 项目</a> &nbsp; / &nbsp;
-  <a href="#音乐角落">♫ 音乐</a> &nbsp; / &nbsp;
+  <a href="#音乐">♫ 音乐</a> &nbsp; / &nbsp;
   <a href="#联系我">✉ 联系</a>
 </p>
 
@@ -62,7 +62,7 @@
 
 <sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
 
-## 音乐角落
+## 音乐
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
