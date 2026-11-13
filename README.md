@@ -88,7 +88,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ## 自己紹介 🩵
 
-Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は [AI の力を借りて作っています](#作品のつくり方)。
+Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は [AI の力を借りて作っています](#プロジェクト制作)。
 
 ## 好きなこと 💜
 
@@ -136,7 +136,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 <sub>好きな音楽を紹介しているだけで、公式のコラボではありません。オンライン再生や再生履歴の機能はありません。</sub>
 
-## 作品のつくり方 ✨
+## プロジェクト制作 ✨
 
 正直なところ、コンピューターの知識はまだ初歩的で、大学でコンピューターサイエンスを専攻するつもりもありません。**アイデアや機能、デザインは自分で決めて、コードの大部分は AI に書いてもらっています。** そのあと自分で使ってみて、感想や改善点を伝え、納得できるまで何度も直します。
 
@@ -163,7 +163,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 ## About me 🩵
 
-I'm Osage. I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects [with help from AI](#how-i-make-things).
+I'm Osage. I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects [with help from AI](#making-projects).
 
 ## My interests 💜
 
@@ -211,7 +211,7 @@ I started Weather Observation Station because I love inabakumori's songs so much
 
 <sub>I'm just sharing music I love. This is not an official collaboration. There is no online music playback or listening history here.</sub>
 
-## How I make things ✨
+## Making projects ✨
 
 To be honest, my computer knowledge is still pretty basic, and I don't plan to study computer science in college. **I decide on the ideas, features, and design, and AI writes most of the code.** Then I test the projects myself, give feedback, and keep revising until I'm happy with the result.
 
