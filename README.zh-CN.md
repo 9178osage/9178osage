@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/255583112?v=4&s=240" width="120" height="120" alt="Osage 的 GitHub 头像">
 </p>
 
-<h1 align="center">I'm Osage?</h1>
+<h1 align="center">I'm Osage.</h1>
 
 ## 关于我 🩵
 
