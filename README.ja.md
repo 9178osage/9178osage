@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/255583112?v=4&s=240" width="120" height="120" alt="Osage の GitHub アイコン">
 </p>
 
-<h1 align="center">? Osage ?</h1>
+<h1 align="center">I'm Osage?</h1>
 
 ## 自己紹介 🩵
 
