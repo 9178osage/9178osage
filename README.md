@@ -22,7 +22,7 @@
 <p align="center">
   <a href="#关于我">👋 关于我</a> &nbsp; / &nbsp;
   <a href="#我的爱好">∑ 爱好</a> &nbsp; / &nbsp;
-  <a href="#精选项目">✦ 项目</a> &nbsp; / &nbsp;
+  <a href="#项目">✦ 项目</a> &nbsp; / &nbsp;
   <a href="#音乐">♫ 音乐</a> &nbsp; / &nbsp;
   <a href="#联系我">✉ 联系</a>
 </p>
@@ -37,7 +37,7 @@
 
 比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
 
-## 精选项目
+## 项目
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -117,7 +117,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 <p align="center">
   <a href="#自己紹介">👋 自己紹介</a> &nbsp; / &nbsp;
   <a href="#好きなこと">∑ 好きなこと</a> &nbsp; / &nbsp;
-  <a href="#主な作品">✦ 作品</a> &nbsp; / &nbsp;
+  <a href="#プロジェクト">✦ プロジェクト</a> &nbsp; / &nbsp;
   <a href="#音楽">♫ 音楽</a> &nbsp; / &nbsp;
   <a href="#連絡先">✉ 連絡先</a>
 </p>
@@ -132,7 +132,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 特に惹かれるのは、応用数学よりも**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中で、精通しているわけではありませんが、抽象的な考えには説明しきれない魅力を感じます。
 
-## 主な作品
+## プロジェクト
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -212,7 +212,7 @@ Weather Observation Station は、そこから生まれました。稲葉曇さ�
 <p align="center">
   <a href="#about-me">👋 About</a> &nbsp; / &nbsp;
   <a href="#my-interests">∑ Interests</a> &nbsp; / &nbsp;
-  <a href="#featured-projects">✦ Projects</a> &nbsp; / &nbsp;
+  <a href="#projects">✦ Projects</a> &nbsp; / &nbsp;
   <a href="#music">♫ Music</a> &nbsp; / &nbsp;
   <a href="#contact">✉ Contact</a>
 </p>
@@ -227,7 +227,7 @@ I enjoy proving a statement by hand, finding connections between ideas that seem
 
 More than applied math, what draws me is **pure mathematics**: algebra, number theory, analysis, and the way a proof fits together. I'm still learning all of these, not claiming to have mastered them, but abstract ideas have a pull I can't quite explain.
 
-## Featured projects
+## Projects
 
 ### 01 / Weather Observation Station · 稲葉曇
 

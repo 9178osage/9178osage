@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#关于我">👋 关于我</a> &nbsp; / &nbsp;
   <a href="#我的爱好">∑ 爱好</a> &nbsp; / &nbsp;
-  <a href="#精选项目">✦ 项目</a> &nbsp; / &nbsp;
+  <a href="#项目">✦ 项目</a> &nbsp; / &nbsp;
   <a href="#音乐">♫ 音乐</a> &nbsp; / &nbsp;
   <a href="#联系我">✉ 联系</a>
 </p>
@@ -30,7 +30,7 @@
 
 比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
 
-## 精选项目
+## 项目
 
 ### 01 / Weather Observation Station · 稲葉曇
 
