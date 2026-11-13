@@ -115,7 +115,7 @@ def check_inline_languages(text, html):
 def heading_ids(text):
     ids, counts = set(), {}
     for heading in re.findall(r"^#{1,6} (.+)$", text, re.MULTILINE):
-        slug = re.sub(r"[^\w\- ]", "", heading.lower()).replace(" ", "-")
+        slug = re.sub(r"[^\w\- ]", "", heading.lower()).replace(" ", "-").strip("-")
         count = counts.get(slug, 0)
         ids.add(f"{slug}-{count}" if count else slug)
         counts[slug] = count + 1

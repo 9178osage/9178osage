@@ -11,17 +11,17 @@
 <details>
 <summary><strong>🇨🇳 简体中文</strong></summary>
 
-## 关于我
+## 关于我 🩵
 
 我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是[借助 AI 完成的](#我怎么做项目)。
 
-## 我的爱好
+## 我的爱好 💜
 
 我喜欢亲手把一个命题证出来，喜欢发现看似不相关的想法之间藏着的联系，也喜欢把推理一步步理清，让它严谨、自洽。
 
 比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
 
-## 项目
+## 项目 🔷
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -53,7 +53,7 @@
 
 <sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
 
-## 音乐
+## 音乐 🎵
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
@@ -61,13 +61,13 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 <sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
-## 我怎么做项目
+## 我怎么做项目 ✨
 
 老实说，我的计算机基础还很浅，大学也不打算学计算机。我的做法是：**想法、功能和设计由我来定，大部分代码交给 AI 写**，然后我自己试用、提意见，一遍遍改到满意为止。
 
 我很在意安全和可靠，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。
 
-## 支持我的项目
+## 支持我的项目 💛
 
 **If you enjoy my projects, feel free to support me.**
 
@@ -75,7 +75,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 <sub>这里暂时还没有放捐赠链接。</sub>
 
-## 联系我
+## 联系我 ✉️
 
 想聊聊项目、共同的爱好，或者只是打个招呼，都欢迎给我发邮件：
 
@@ -86,17 +86,17 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 <details>
 <summary><strong>🇯🇵 日本語</strong></summary>
 
-## 自己紹介
+## 自己紹介 🩵
 
 Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は [AI の力を借りて作っています](#作品のつくり方)。
 
-## 好きなこと
+## 好きなこと 💜
 
 命題を自分の手で証明すること、一見関係なさそうな考えどうしのつながりを見つけること、そして推論を一歩ずつ、厳密に、矛盾なく組み立てることが好きです。
 
 特に惹かれるのは、応用数学よりも**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中で、精通しているわけではありませんが、抽象的な考えには説明しきれない魅力を感じます。
 
-## プロジェクト
+## プロジェクト 🔷
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -128,7 +128,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 <sub>個人の非公式なファン作品で、OpenAI の公式製品ではありません。OpenAI との公式な関係はなく、公認も受けていません。</sub>
 
-## 音楽
+## 音楽 🎵
 
 いちばん好きなクリエイターは、**稲葉曇 / inabakumori** さんと **DECO\*27** さんの二人です。
 
@@ -136,13 +136,13 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 <sub>好きな音楽を紹介しているだけで、公式のコラボではありません。オンライン再生や再生履歴の機能はありません。</sub>
 
-## 作品のつくり方
+## 作品のつくり方 ✨
 
 正直なところ、コンピューターの知識はまだ初歩的で、大学でコンピューターサイエンスを専攻するつもりもありません。**アイデアや機能、デザインは自分で決めて、コードの大部分は AI に書いてもらっています。** そのあと自分で使ってみて、感想や改善点を伝え、納得できるまで何度も直します。
 
 安全性や信頼性も大切にしているので、複数の異なる AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードに脆弱性や不具合がないことまで**保証できるわけではありません**。
 
-## 応援について
+## 応援について 💛
 
 **If you enjoy my projects, feel free to support me.**
 
@@ -150,7 +150,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 <sub>寄付のリンクはまだ載せていません。</sub>
 
-## 連絡先
+## 連絡先 ✉️
 
 作品の話でも、共通の趣味の話でも、ちょっとした挨拶でも、気軽にメールしてください。
 
@@ -161,17 +161,17 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 <details open>
 <summary><strong>🇺🇸 English</strong></summary>
 
-## About me
+## About me 🩵
 
 I'm Osage. I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects [with help from AI](#how-i-make-things).
 
-## My interests
+## My interests 💜
 
 I enjoy proving mathematical statements myself, finding connections between ideas that seem unrelated, and working through my reasoning step by step until it is rigorous and consistent.
 
 I'm more drawn to **pure mathematics** than to applied math. I'm interested in algebra, number theory, analysis, and the structure of proofs. I'm still learning these topics and haven't mastered them, but abstract ideas themselves fascinate me in a way I can't quite explain.
 
-## Projects
+## Projects 🔷
 
 ### 01 / Weather Observation Station · 稲葉曇
 
@@ -203,7 +203,7 @@ Your data is stored in your current browser. You can export a backup and import 
 
 <sub>A personal fan creation; not an official OpenAI product, and not affiliated with or endorsed by OpenAI.</sub>
 
-## Music
+## Music 🎵
 
 My two favorite artists are **稲葉曇 / inabakumori** and **DECO\*27**.
 
@@ -211,13 +211,13 @@ I started Weather Observation Station because I love inabakumori's songs so much
 
 <sub>I'm just sharing music I love. This is not an official collaboration. There is no online music playback or listening history here.</sub>
 
-## How I make things
+## How I make things ✨
 
 To be honest, my computer knowledge is still pretty basic, and I don't plan to study computer science in college. **I decide on the ideas, features, and design, and AI writes most of the code.** Then I test the projects myself, give feedback, and keep revising until I'm happy with the result.
 
 I care about security and reliability, so I often have several different AI models cross-check the code. This can help catch problems, but it **can't guarantee the code is safe or bug-free**.
 
-## Activity overview
+## Activity overview 📊
 
 <!-- activity-overview:start -->
 **Contributed to:** [9178osage/inabakumori-site](https://github.com/9178osage/inabakumori-site) · [9178osage/13th-desk](https://github.com/9178osage/13th-desk) · [9178osage/luopian](https://github.com/9178osage/luopian) · and 2 other public repositories
@@ -232,7 +232,7 @@ I care about security and reliability, so I often have several different AI mode
 | Pull requests | 0 | 0% |
 <!-- activity-overview:end -->
 
-## Support my projects
+## Support my projects 💛
 
 **If you enjoy my projects, feel free to support me.**
 
@@ -240,7 +240,7 @@ These are all hobby projects, but using several advanced AI models to write and 
 
 <sub>There's no donation link here yet.</sub>
 
-## Contact
+## Contact ✉️
 
 Want to talk about a project, a shared interest, or just say hi? Feel free to email me:
 
