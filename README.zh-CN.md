@@ -60,7 +60,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 我很在意安全和可靠，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。
 
-## 支持我的项目 💛
+## 支持我 💛
 
 **If you enjoy my projects, feel free to support me.**
 
