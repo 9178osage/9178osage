@@ -143,7 +143,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 ## About me 🩵
 
-I'm Osage. I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects with help from AI.
+I'm Osage? I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects with help from AI.
 
 ## My interests 💜
 
