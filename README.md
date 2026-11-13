@@ -13,7 +13,7 @@
 
 ## 关于我 🩵
 
-我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是[借助 AI 完成的](#项目制作)。
+我是 Osage，来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是借助 AI 完成的。
 
 ## 我的爱好 💜
 
@@ -78,7 +78,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 ## 自己紹介 🩵
 
-Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は [AI の力を借りて作っています](#プロジェクト制作)。
+Osage です。中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は AI の力を借りて作っています。
 
 ## 好きなこと 💜
 
@@ -143,7 +143,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 ## About me 🩵
 
-I'm Osage. I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects [with help from AI](#making-projects).
+I'm Osage. I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects with help from AI.
 
 ## My interests 💜
 
