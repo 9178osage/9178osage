@@ -142,7 +142,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 安全性や信頼性も大切にしているので、複数の異なる AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードに脆弱性や不具合がないことまで**保証できるわけではありません**。
 
-## 応援について 💛
+## 応援してね 💛
 
 **If you enjoy my projects, feel free to support me.**
 
@@ -217,7 +217,7 @@ To be honest, my computer knowledge is still pretty basic, and I don't plan to s
 
 I care about security and reliability, so I often have several different AI models cross-check the code. This can help catch problems, but it **can't guarantee the code is safe or bug-free**.
 
-## Support my projects 💛
+## Support me 💛
 
 **If you enjoy my projects, feel free to support me.**
 
