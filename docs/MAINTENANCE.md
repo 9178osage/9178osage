@@ -86,10 +86,9 @@ git diff --check
 | 项目 | 固定版本来源 | 本次采用的信息与限制 |
 | --- | --- | --- |
 | Weather Observation Station | [README](https://github.com/9178osage/inabakumori-site/blob/6bd52c1bd5af855d103cbe48c35738e385d00087/README.md) · [CNAME](https://github.com/9178osage/inabakumori-site/blob/6bd52c1bd5af855d103cbe48c35738e385d00087/CNAME) | 非官方粉丝网站；歌曲资料、收录的创作者动态、插画、中英日界面、账号、留言墙、视觉效果。动态不是实时完整信息流。站点地址以 README 与 CNAME 共同确认的 `osagechan.top` 为准，不误用仓库元数据中的后端地址。 |
-| Eugene Desk | [README](https://github.com/9178osage/13th-desk/blob/2c8940e738ffd01445becc11ed6ab926827eea25/README.md) | 多语言学生仪表盘；课表、待办、GPA 估算、校园与城市信息、资源及偏好设置。书桌数据在当前浏览器，可导出和导入；不声称跨设备同步。GPA 非正式成绩。 |
 | 小辫子酱 | [README](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/46262bc06069076c0068a0631d34767b24adb2b1/README.md) | 非官方 Codex 灵感桌宠；自定义动画、可爱角色、动作演示、资源包。仓库目录确认 MP4 和 ZIP 均存在；没有把资源包描述为经过验证的安装程序。 |
 
-项目排列固定为以上顺序。没有添加性能数字、用户规模、奖项、学术成果、开发资历或安全保证，也没有搬用项目中的插画。
+精选项目现为以上两个，排列按此顺序。Eugene Desk 不再列于主页。没有添加性能数字、用户规模、奖项、学术成果、开发资历或安全保证，也没有搬用项目中的插画。
 
 个人介绍来自用户提供、授权用于主页的资料，并非外部身份认证。只公开州级位置；不公开具体学校、法律或移民身份等信息。公开邮箱按用户提供的地址使用，不从项目资料推断学校或其他私人信息。
 

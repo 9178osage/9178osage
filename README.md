@@ -35,17 +35,7 @@
 
 ---
 
-### 02 / Eugene Desk
-
-📚 一个从学生日常需要出发的多语言学习面板：课程表、待办事项、GPA 估算、校园和城市信息、学生资源和个人设置，都放在同一个地方。
-
-数据保存在你当前使用的浏览器里，可以导出备份，也可以再导入恢复。GPA 只是估算，不等于正式成绩。
-
-**[打开书桌 ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/13th-desk)
-
----
-
-### 03 / 小辫子酱 · Codex Desktop Pet
+### 02 / 小辫子酱 · Codex Desktop Pet
 
 🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
 
@@ -110,17 +100,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 ---
 
-### 02 / Eugene Desk
-
-📚 学生の日常に必要なものをまとめた、多言語対応のダッシュボードです。時間割、ToDo、GPA の概算、キャンパスや街の情報、学生向けリソース、個人設定をひとつにまとめました。
-
-データは現在お使いのブラウザーに保存され、エクスポートでバックアップし、インポートで復元できます。ここで表示する GPA はあくまで概算で、正式な成績ではありません。
-
-**[デスクを開く ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/13th-desk)
-
----
-
-### 03 / 小辫子酱 · Codex Desktop Pet
+### 02 / 小辫子酱 · Codex Desktop Pet
 
 🐾 デスクトップペットを作る非公式プロジェクトです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
@@ -185,17 +165,7 @@ It has song information and music links, curated creator updates, an illustratio
 
 ---
 
-### 02 / Eugene Desk
-
-📚 A multilingual dashboard built around students' everyday needs. It brings together class schedules, to-dos, GPA estimates, campus and city information, student resources, and personal settings.
-
-Your data is stored in your current browser. You can export a backup and import it later to restore your data. GPA results are estimates, not official grades.
-
-**[Open the desk ↗](https://eugene-desk.vercel.app/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/13th-desk)
-
----
-
-### 03 / 小辫子酱 · Codex Desktop Pet
+### 02 / 小辫子酱 · Codex Desktop Pet
 
 🐾 This is an unofficial desktop pet project with a cute character and custom animations, plus an animation demo and a downloadable resource pack.
 

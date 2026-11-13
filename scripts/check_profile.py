@@ -17,7 +17,6 @@ ROOT = Path(__file__).resolve().parents[1]
 PROFILES = ("README.md", "README.zh-CN.md", "README.ja.md")
 PROJECTS = (
     "Weather Observation Station · 稲葉曇",
-    "Eugene Desk",
     "小辫子酱 · Codex Desktop Pet",
 )
 SUPPORT = "If you enjoy my projects, feel free to support me."
