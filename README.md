@@ -217,21 +217,6 @@ To be honest, my computer knowledge is still pretty basic, and I don't plan to s
 
 I care about security and reliability, so I often have several different AI models cross-check the code. This can help catch problems, but it **can't guarantee the code is safe or bug-free**.
 
-## Activity overview 📊
-
-<!-- activity-overview:start -->
-**Contributed to:** [9178osage/inabakumori-site](https://github.com/9178osage/inabakumori-site) · [9178osage/13th-desk](https://github.com/9178osage/13th-desk) · [9178osage/luopian](https://github.com/9178osage/luopian) · and 2 other public repositories
-
-**Public activity · last 365 days**
-
-| Contribution type | Count | Share |
-| --- | ---: | ---: |
-| Code review | 0 | 0% |
-| Commits | 1021 | 100% |
-| Issues | 0 | 0% |
-| Pull requests | 0 | 0% |
-<!-- activity-overview:end -->
-
 ## Support my projects 💛
 
 **If you enjoy my projects, feel free to support me.**
