@@ -72,4 +72,4 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 作品の話でも、共通の趣味の話でも、ちょっとした挨拶でも、気軽にメールしてください。
 
-**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)**
+**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; QQ: 3976621619

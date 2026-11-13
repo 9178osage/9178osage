@@ -79,7 +79,7 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 想聊聊项目、共同的爱好，或者只是打个招呼，都欢迎给我发邮件：
 
-**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)**
+**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; QQ: 3976621619
 
 </details>
 
@@ -154,7 +154,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 作品の話でも、共通の趣味の話でも、ちょっとした挨拶でも、気軽にメールしてください。
 
-**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)**
+**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; QQ: 3976621619
 
 </details>
 
@@ -229,6 +229,6 @@ These are all hobby projects, but using several advanced AI models to write and 
 
 Want to talk about a project, a shared interest, or just say hi? Feel free to email me:
 
-**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)**
+**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; QQ: 3976621619
 
 </details>
