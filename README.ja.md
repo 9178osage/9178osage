@@ -32,7 +32,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 🐾 デスクトップペットを作る非公式プロジェクトです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
-**[素材パックを入手 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
+**[デスクトップペットをダウンロード ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
 
 <sub>個人の非公式なファン作品で、OpenAI の公式製品ではありません。OpenAI との公式な関係はなく、公認も受けていません。</sub>
 

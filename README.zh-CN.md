@@ -32,7 +32,7 @@
 
 🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
 
-**[获取资源包 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
+**[下载桌宠 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
 
 <sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
 

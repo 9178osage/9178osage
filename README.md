@@ -39,7 +39,7 @@
 
 🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
 
-**[获取资源包 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
+**[下载桌宠 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
 
 <sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
 
@@ -104,7 +104,7 @@ Osage です。中国出身で、いまはアメリカ・オレゴン州の高�
 
 🐾 デスクトップペットを作る非公式プロジェクトです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
 
-**[素材パックを入手 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
+**[デスクトップペットをダウンロード ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
 
 <sub>個人の非公式なファン作品で、OpenAI の公式製品ではありません。OpenAI との公式な関係はなく、公認も受けていません。</sub>
 
@@ -169,7 +169,7 @@ It has song information and music links, curated creator updates, an illustratio
 
 🐾 This is an unofficial desktop pet project with a cute character and custom animations, plus an animation demo and a downloadable resource pack.
 
-**[Get the resource pack ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/%E5%B0%8F%E8%BE%AB%E5%AD%90%E9%85%B1%E5%88%86%E4%BA%AB%E5%8C%85.zip)**
+**[Download the desktop pet ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
 
 <sub>A personal fan creation; not an official OpenAI product, and not affiliated with or endorsed by OpenAI.</sub>
 
