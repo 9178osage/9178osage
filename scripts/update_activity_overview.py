@@ -134,7 +134,7 @@ def render_activity(counts, repositories):
 
     rows = [
         "",
-        "**Public activity · rolling 12 months**",
+        "**Public activity · last 365 days**",
         "",
         "| Contribution type | Count | Share |",
         "| --- | ---: | ---: |",
