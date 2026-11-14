@@ -249,6 +249,8 @@ These are all hobby projects, but using several advanced AI models to write and 
 
 <sub>There's no donation link here yet.</sub>
 
+<p align="center"><a href="https://github.com/9178osage/9178osage"><img src="assets/k7m2p9x4.png" alt="Star this profile repository on GitHub" width="220"></a></p>
+
 ## Contact ✉️
 
 Want to talk about a project, a shared interest, or just say hi? Feel free to email me:
