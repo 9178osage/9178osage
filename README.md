@@ -15,6 +15,8 @@
 
 我是 Osage？我来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是借助 AI 完成的。
 
+<p align="center"><img src="assets/rainy-study-desk.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="640"></p>
+
 ## 我的爱好 💜
 
 我喜欢亲手把一个命题证出来，喜欢发现看似不相关的想法之间藏着的联系，也喜欢把推理一步步理清，让它严谨、自洽。
@@ -96,6 +98,8 @@
 
 私はOsageですか？中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は AI の力を借りて作っています。
 
+<p align="center"><img src="assets/rainy-study-desk.png" alt="雨の窓辺にある学習机。ノートパソコン、数学のノート、本、ヘッドホンが並ぶ。" width="640"></p>
+
 ## 好きなこと 💜
 
 命題を自分の手で証明すること、一見関係なさそうな考えどうしのつながりを見つけること、そして推論を一歩ずつ、厳密に、矛盾なく組み立てることが好きです。
@@ -176,6 +180,8 @@
 ## About me 🩵
 
 I'm Osage? I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects with help from AI.
+
+<p align="center"><img src="assets/rainy-study-desk.png" alt="Study desk by a rainy window with a laptop, math notes, books, and headphones" width="640"></p>
 
 ## My interests 💜
 
