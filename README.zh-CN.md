@@ -24,6 +24,12 @@
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
+![气象观测站日文首页截图](assets/weather-observation-station-ja.png)
+
+![气象观测站英文首页截图](assets/weather-observation-station-en.png)
+
+![气象观测站中文首页截图](assets/weather-observation-station-zh.png)
+
 <sub>个人粉丝作品，与稲葉曇本人、站内插画作者及相关官方厂牌或平台均无关联。</sub>
 
 ---
