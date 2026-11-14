@@ -26,10 +26,6 @@
 
 ![Weather Observation Station の日本語ホーム画面](assets/weather-observation-station-ja.png)
 
-![Weather Observation Station の英語ホーム画面](assets/weather-observation-station-en.png)
-
-![Weather Observation Station の中国語ホーム画面](assets/weather-observation-station-zh.png)
-
 <sub>個人のファン活動です。稲葉曇さん、掲載イラストの作者、関連する公式レーベルやプラットフォームとは関係ありません。</sub>
 
 ---
