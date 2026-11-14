@@ -49,6 +49,8 @@
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
+<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 标志" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="人物双腿的黑白插图" width="145"></p>
+
 <sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
 ## 项目制作 ✨
@@ -114,6 +116,8 @@
 
 いちばん好きなクリエイターは、**稲葉曇 / inabakumori** さんと **DECO\*27** さんの二人です。
 
+<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 のロゴ" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="人物の脚を描いたモノクロのイラスト" width="145"></p>
+
 <sub>好きな音楽を紹介しているだけで、公式のコラボではありません。オンライン再生や再生履歴の機能はありません。</sub>
 
 ## プロジェクト制作 ✨
@@ -178,6 +182,8 @@ It has song information and music links, curated creator updates, an illustratio
 ## Music 🎵
 
 My two favorite artists are **稲葉曇 / inabakumori** and **DECO\*27**.
+
+<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 logo" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="Monochrome illustration of a person's legs" width="145"></p>
 
 <sub>I'm just sharing music I love. This is not an official collaboration. There is no online music playback or listening history here.</sub>
 

@@ -42,6 +42,8 @@
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
+<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 标志" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="人物双腿的黑白插图" width="145"></p>
+
 <sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
 ## 项目制作 ✨

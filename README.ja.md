@@ -42,6 +42,8 @@
 
 いちばん好きなクリエイターは、**稲葉曇 / inabakumori** さんと **DECO\*27** さんの二人です。
 
+<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 のロゴ" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="人物の脚を描いたモノクロのイラスト" width="145"></p>
+
 <sub>好きな音楽を紹介しているだけで、公式のコラボではありません。オンライン再生や再生履歴の機能はありません。</sub>
 
 ## プロジェクト制作 ✨

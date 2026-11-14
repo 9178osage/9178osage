@@ -14,7 +14,9 @@
 ├── assets/
 │   ├── weather-observation-station-ja.png
 │   ├── weather-observation-station-en.png
-│   └── weather-observation-station-zh.png
+│   ├── weather-observation-station-zh.png
+│   ├── deco27-logo.webp
+│   └── inabakumori-music-image.webp
 ├── docs/
 │   └── MAINTENANCE.md          # 本文：部署、事实来源、素材说明
 └── scripts/
@@ -77,7 +79,7 @@ git diff --check
 ## GitHub 渲染与可访问性
 
 - 页面正文使用 GitHub 原生 Markdown 和简单的 `p`、`img`、`a`、`h1`、`strong`、`em`、`br`、`sub`、`details`、`summary` 标签，无脚本、iframe、内联 CSS 或自定义布局。语言折叠区的摘要可通过键盘聚焦并展开。
-- 单列排版，不用固定宽度表格；顶部显示 GitHub 账号头像，观测站项目下展示日、英、中文主页截图，不含动画。
+- 正文采用单列排版，不用固定宽度表格；顶部显示 GitHub 账号头像，观测站项目下展示日、英、中文主页截图，音乐板块以适中尺寸并排展示两张静态图片，不含动画。
 - 正文完全跟随 GitHub 的浅色与深色主题，没有固定颜色的文字。
 - 身份、项目名称、功能和入口都是正常文本；头像带有替代文本。
 - 数学公式使用 GitHub 支持的 `$...$`。奇数求和公式注明正整数范围，不暗示作者的数学资历。
@@ -100,10 +102,10 @@ AI 工作方式如实表述为：作者负责想法、功能、审美、反馈�
 
 ## 图片与维护约定
 
-当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。观测站项目使用 `assets/weather-observation-station-ja.png`、`assets/weather-observation-station-en.png` 和 `assets/weather-observation-station-zh.png` 展示三种语言的主页截图。主页不包含动态活动概览，也没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
+当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。观测站项目使用 `assets/weather-observation-station-ja.png`、`assets/weather-observation-station-en.png` 和 `assets/weather-observation-station-zh.png` 展示三种语言的主页截图；音乐板块使用 `assets/deco27-logo.webp` 和 `assets/inabakumori-music-image.webp` 展示两张静态图片，主页维护者已确认它们可用于公开主页。主页不包含动态活动概览，也没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
 
 音乐人姓名只用于表达个人喜好，项目名称用于介绍对应作品，不暗示官方合作或背书，也不代表对相关音乐、角色或品牌拥有权利。
 
-如日后确需新增截图以外的图片，应先确认素材为原创或许可明确；不要使用现有角色设计、艺人肖像、专辑封面、品牌标志或歌词。图片放在本仓库的 `assets/` 并提供有意义的替代文本；单张 SVG 不超过 30 KB，动画需支持减弱动态设置。不要添加依赖不稳定服务的动态卡片。
+如日后新增第三方图片，应先确认素材获准用于公开主页。图片放在本仓库的 `assets/` 并提供有意义的替代文本；单张 SVG 不超过 30 KB，动画需支持减弱动态设置。不要添加依赖不稳定服务的动态卡片。
 
 更新项目、邮箱、支持渠道或个人介绍时，请同步修改主页内三语正文和对应的独立副本；新增付款入口前应先由本人确认。保留 `summary` 后、`details` 闭合前的空行，确保折叠区内的 Markdown 正常渲染。改动后重新运行检查，并在 GitHub 上复核实际渲染。
