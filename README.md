@@ -49,8 +49,6 @@
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
-Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌。
-
 <sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
 ## 项目制作 ✨
@@ -116,8 +114,6 @@ Weather Observation Station 就是这么来的：因为太喜欢稲葉曇的歌�
 
 いちばん好きなクリエイターは、**稲葉曇 / inabakumori** さんと **DECO\*27** さんの二人です。
 
-稲葉曇さんの曲が大好きで、Weather Observation Station を作りました。
-
 <sub>好きな音楽を紹介しているだけで、公式のコラボではありません。オンライン再生や再生履歴の機能はありません。</sub>
 
 ## プロジェクト制作 ✨
@@ -182,8 +178,6 @@ It has song information and music links, curated creator updates, an illustratio
 ## Music 🎵
 
 My two favorite artists are **稲葉曇 / inabakumori** and **DECO\*27**.
-
-I started Weather Observation Station because I love inabakumori's songs so much.
 
 <sub>I'm just sharing music I love. This is not an official collaboration. There is no online music playback or listening history here.</sub>
 
