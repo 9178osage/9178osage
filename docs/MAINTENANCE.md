@@ -16,7 +16,17 @@
 │   ├── weather-observation-station-en.png
 │   ├── weather-observation-station-zh.png
 │   ├── deco27-logo.webp
-│   └── inabakumori-music-image.webp
+│   ├── inabakumori-music-image.webp
+│   └── ai-tools/
+│       ├── chatgpt.svg
+│       ├── claude.svg
+│       ├── grok.svg
+│       ├── gemini.svg
+│       ├── github-copilot.svg
+│       ├── cursor.svg
+│       ├── opencode.svg
+│       ├── deepseek.svg
+│       └── SOURCES.md
 ├── docs/
 │   └── MAINTENANCE.md          # 本文：部署、事实来源、素材说明
 └── scripts/
@@ -107,5 +117,7 @@ AI 工作方式如实表述为：作者负责想法、功能、审美、反馈�
 音乐人姓名只用于表达个人喜好，项目名称用于介绍对应作品，不暗示官方合作或背书，也不代表对相关音乐、角色或品牌拥有权利。
 
 如日后新增第三方图片，应先确认素材获准用于公开主页。图片放在本仓库的 `assets/` 并提供有意义的替代文本；单张 SVG 不超过 30 KB，动画需支持减弱动态设置。不要添加依赖不稳定服务的动态卡片。
+
+`assets/ai-tools/` 中的图标用于标识项目制作流程里提到的工具；来源及权利说明见 `SOURCES.md`。标志仅用于识别，不暗示与品牌方存在官方关联或获得背书。
 
 更新项目、邮箱、支持渠道或个人介绍时，请同步修改主页内三语正文和对应的独立副本；新增付款入口前应先由本人确认。保留 `summary` 后、`details` 闭合前的空行，确保折叠区内的 Markdown 正常渲染。改动后重新运行检查，并在 GitHub 上复核实际渲染。

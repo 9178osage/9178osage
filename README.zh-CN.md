@@ -48,6 +48,18 @@
 
 ## 项目制作 ✨
 
+<p align="center">
+<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+</p>
+<sub>这些标志仅用于识别工具，不代表与相关品牌存在官方关联或获得其背书。</sub>
+
 老实说，我的计算机基础还很浅，大学也不打算学计算机。我的做法是：**想法、功能和设计由我来定，大部分代码交给 AI 写**，然后我自己试用、提意见，一遍遍改到满意为止。
 
 我很在意安全和可靠，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。

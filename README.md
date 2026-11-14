@@ -55,6 +55,18 @@
 
 ## 项目制作 ✨
 
+<p align="center">
+<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+</p>
+<sub>这些标志仅用于识别工具，不代表与相关品牌存在官方关联或获得其背书。</sub>
+
 老实说，我的计算机基础还很浅，大学也不打算学计算机。我的做法是：**想法、功能和设计由我来定，大部分代码交给 AI 写**，然后我自己试用、提意见，一遍遍改到满意为止。
 
 我很在意安全和可靠，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。
@@ -122,6 +134,18 @@
 
 ## プロジェクト制作 ✨
 
+<p align="center">
+<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+</p>
+<sub>各ロゴはツールの識別のために掲載しており、各ブランドとの公式な関係や推薦を示すものではありません。</sub>
+
 正直なところ、コンピューターの知識はまだ初歩的で、大学でコンピューターサイエンスを専攻するつもりもありません。**アイデアや機能、デザインは自分で決めて、コードの大部分は AI に書いてもらっています。** そのあと自分で使ってみて、感想や改善点を伝え、納得できるまで何度も直します。
 
 安全性や信頼性も大切にしているので、複数の異なる AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードに脆弱性や不具合がないことまで**保証できるわけではありません**。
@@ -188,6 +212,18 @@ My two favorite artists are **稲葉曇 / inabakumori** and **DECO\*27**.
 <sub>I'm just sharing music I love. This is not an official collaboration. There is no online music playback or listening history here.</sub>
 
 ## Making projects ✨
+
+<p align="center">
+<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+</p>
+<sub>Logos identify the tools only; they do not imply official affiliation or endorsement.</sub>
 
 To be honest, my computer knowledge is still pretty basic, and I don't plan to study computer science in college. **I decide on the ideas, features, and design, and AI writes most of the code.** Then I test the projects myself, give feedback, and keep revising until I'm happy with the result.
 

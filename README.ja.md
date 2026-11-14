@@ -48,6 +48,18 @@
 
 ## プロジェクト制作 ✨
 
+<p align="center">
+<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+</p>
+<sub>各ロゴはツールの識別のために掲載しており、各ブランドとの公式な関係や推薦を示すものではありません。</sub>
+
 正直なところ、コンピューターの知識はまだ初歩的で、大学でコンピューターサイエンスを専攻するつもりもありません。**アイデアや機能、デザインは自分で決めて、コードの大部分は AI に書いてもらっています。** そのあと自分で使ってみて、感想や改善点を伝え、納得できるまで何度も直します。
 
 安全性や信頼性も大切にしているので、複数の異なる AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードに脆弱性や不具合がないことまで**保証できるわけではありません**。
