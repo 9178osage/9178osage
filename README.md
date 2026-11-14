@@ -5,7 +5,7 @@
 <h1 align="center">? Osage ?</h1>
 
 <p align="center">
-  <sub>Click a language to expand · 点击语言展开 · 言語をクリックして開く</sub>
+  <sub>Click a language to select · 点击选择语言 · 言語をクリックして選択</sub>
 </p>
 
 <details>
