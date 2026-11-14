@@ -15,6 +15,7 @@
 │   ├── 6kmm14t6.png
 │   ├── 3o95u1qs.png
 │   ├── 8cg7n68h.png
+│   ├── d4v8h2m5.png
 │   ├── jk2pd748.webp
 │   ├── h4e688wh.webp
 │   ├── b6hrw112.png
@@ -114,7 +115,7 @@ AI 工作方式如实表述为：作者负责想法、功能、审美、反馈�
 
 ## 图片与维护约定
 
-当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。关于我板块展示雨窗学习桌面插画 `assets/b6hrw112.png`。观测站项目使用 `assets/6kmm14t6.png`、`assets/3o95u1qs.png` 和 `assets/8cg7n68h.png` 展示三种语言的主页截图；音乐板块使用 `assets/jk2pd748.webp` 和 `assets/h4e688wh.webp` 展示两张静态图片，主页维护者已确认它们可用于公开主页。数学兴趣板块使用用户提供的 `assets/879ty4bg.jpg`；用户已确认该图可公开展示。主页不包含动态活动概览，也没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
+当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。关于我板块展示雨窗学习桌面插画 `assets/b6hrw112.png`。观测站项目使用 `assets/6kmm14t6.png`、`assets/3o95u1qs.png` 和 `assets/8cg7n68h.png` 展示三种语言的主页截图；桌宠项目展示角色图 `assets/d4v8h2m5.png`；音乐板块使用 `assets/jk2pd748.webp` 和 `assets/h4e688wh.webp` 展示两张静态图片，主页维护者已确认它们可用于公开主页。数学兴趣板块使用用户提供的 `assets/879ty4bg.jpg`；用户已确认该图可公开展示。主页不包含动态活动概览，也没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
 
 音乐人姓名只用于表达个人喜好，项目名称用于介绍对应作品，不暗示官方合作或背书，也不代表对相关音乐、角色或品牌拥有权利。
 

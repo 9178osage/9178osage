@@ -38,6 +38,8 @@
 
 🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
 
+<p align="center"><img src="assets/d4v8h2m5.png" alt="小辫子酱桌面宠物的黑白角色形象" width="320"></p>
+
 **[下载桌宠 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
 
 <sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
