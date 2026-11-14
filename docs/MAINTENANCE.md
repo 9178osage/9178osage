@@ -12,22 +12,22 @@
 ├── README.zh-CN.md             # 简体中文独立副本，须与主页内中文一致
 ├── README.ja.md                # 日本語独立副本，须与主页内日文一致
 ├── assets/
-│   ├── weather-observation-station-ja.png
-│   ├── weather-observation-station-en.png
-│   ├── weather-observation-station-zh.png
-│   ├── deco27-logo.webp
-│   ├── inabakumori-music-image.webp
-│   ├── a8m3q6z1.png
-│   ├── mandelbrot-blue-gold.jpg
+│   ├── 6kmm14t6.png
+│   ├── 3o95u1qs.png
+│   ├── 8cg7n68h.png
+│   ├── jk2pd748.webp
+│   ├── h4e688wh.webp
+│   ├── b6hrw112.png
+│   ├── 879ty4bg.jpg
 │   └── ai-tools/
-│       ├── chatgpt.svg
-│       ├── claude.svg
-│       ├── grok.svg
-│       ├── gemini.svg
-│       ├── github-copilot.svg
-│       ├── cursor.svg
-│       ├── opencode.svg
-│       ├── deepseek.svg
+│       ├── p4sl38m4.svg
+│       ├── 48mj98gq.svg
+│       ├── m8i27qg8.svg
+│       ├── 29lo61wg.svg
+│       ├── g0sc016w.svg
+│       ├── 4dw3sq25.svg
+│       ├── c794s1hj.svg
+│       ├── a04vs9j0.svg
 │       └── SOURCES.md
 ├── docs/
 │   └── MAINTENANCE.md          # 本文：部署、事实来源、素材说明
@@ -114,7 +114,7 @@ AI 工作方式如实表述为：作者负责想法、功能、审美、反馈�
 
 ## 图片与维护约定
 
-当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。关于我板块展示雨窗学习桌面插画 `assets/a8m3q6z1.png`。观测站项目使用 `assets/weather-observation-station-ja.png`、`assets/weather-observation-station-en.png` 和 `assets/weather-observation-station-zh.png` 展示三种语言的主页截图；音乐板块使用 `assets/deco27-logo.webp` 和 `assets/inabakumori-music-image.webp` 展示两张静态图片，主页维护者已确认它们可用于公开主页。数学兴趣板块使用用户提供的 `assets/mandelbrot-blue-gold.jpg`；用户已确认该图可公开展示。主页不包含动态活动概览，也没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
+当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。关于我板块展示雨窗学习桌面插画 `assets/b6hrw112.png`。观测站项目使用 `assets/6kmm14t6.png`、`assets/3o95u1qs.png` 和 `assets/8cg7n68h.png` 展示三种语言的主页截图；音乐板块使用 `assets/jk2pd748.webp` 和 `assets/h4e688wh.webp` 展示两张静态图片，主页维护者已确认它们可用于公开主页。数学兴趣板块使用用户提供的 `assets/879ty4bg.jpg`；用户已确认该图可公开展示。主页不包含动态活动概览，也没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
 
 音乐人姓名只用于表达个人喜好，项目名称用于介绍对应作品，不暗示官方合作或背书，也不代表对相关音乐、角色或品牌拥有权利。
 

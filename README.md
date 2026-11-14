@@ -15,7 +15,7 @@
 
 我是 Osage？我来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是借助 AI 完成的。
 
-<p align="center"><img src="assets/a8m3q6z1.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="640"></p>
+<p align="center"><img src="assets/b6hrw112.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="640"></p>
 
 ## 我的爱好 💜
 
@@ -23,7 +23,7 @@
 
 比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
 
-<p align="center"><img src="assets/mandelbrot-blue-gold.jpg" alt="蓝紫金色调的曼德博集合图" width="480"></p>
+<p align="center"><img src="assets/879ty4bg.jpg" alt="蓝紫金色调的曼德博集合图" width="480"></p>
 
 ## 项目 🔷
 
@@ -35,7 +35,7 @@
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
-![气象观测站中文首页截图](assets/weather-observation-station-zh.png)
+![气象观测站中文首页截图](assets/8cg7n68h.png)
 
 <sub>个人粉丝作品，与稲葉曇本人、站内插画作者及相关官方厂牌或平台均无关联。</sub>
 
@@ -53,21 +53,21 @@
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
-<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 标志" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="人物双腿的黑白插图" width="145"></p>
+<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 标志" width="145"> &nbsp; <img src="assets/h4e688wh.webp" alt="人物双腿的黑白插图" width="145"></p>
 
 <sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
 ## 项目制作 ✨
 
 <p align="center">
-<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
-<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
-<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
-<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
-<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
-<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
-<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
-<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+<img src="assets/ai-tools/p4sl38m4.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/48mj98gq.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/m8i27qg8.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/29lo61wg.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/g0sc016w.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/4dw3sq25.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/c794s1hj.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/a04vs9j0.svg" alt="DeepSeek" width="44">
 </p>
 <sub>这些标志仅用于识别工具，不代表与相关品牌存在官方关联或获得其背书。</sub>
 
@@ -98,7 +98,7 @@
 
 私はOsageですか？中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は AI の力を借りて作っています。
 
-<p align="center"><img src="assets/a8m3q6z1.png" alt="雨の窓辺にある学習机。ノートパソコン、数学のノート、本、ヘッドホンが並ぶ。" width="640"></p>
+<p align="center"><img src="assets/b6hrw112.png" alt="雨の窓辺にある学習机。ノートパソコン、数学のノート、本、ヘッドホンが並ぶ。" width="640"></p>
 
 ## 好きなこと 💜
 
@@ -106,7 +106,7 @@
 
 特に惹かれるのは、応用数学よりも**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中で、精通しているわけではありませんが、抽象的な考えには説明しきれない魅力を感じます。
 
-<p align="center"><img src="assets/mandelbrot-blue-gold.jpg" alt="青紫と金色のマンデルブロ集合の図" width="480"></p>
+<p align="center"><img src="assets/879ty4bg.jpg" alt="青紫と金色のマンデルブロ集合の図" width="480"></p>
 
 ## プロジェクト 🔷
 
@@ -118,7 +118,7 @@
 
 **[観測所へ ↗](https://osagechan.top/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/inabakumori-site)
 
-![Weather Observation Station の日本語ホーム画面](assets/weather-observation-station-ja.png)
+![Weather Observation Station の日本語ホーム画面](assets/6kmm14t6.png)
 
 <sub>個人のファン活動です。稲葉曇さん、掲載イラストの作者、関連する公式レーベルやプラットフォームとは関係ありません。</sub>
 
@@ -136,21 +136,21 @@
 
 いちばん好きなクリエイターは、**稲葉曇 / inabakumori** さんと **DECO\*27** さんの二人です。
 
-<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 のロゴ" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="人物の脚を描いたモノクロのイラスト" width="145"></p>
+<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 のロゴ" width="145"> &nbsp; <img src="assets/h4e688wh.webp" alt="人物の脚を描いたモノクロのイラスト" width="145"></p>
 
 <sub>好きな音楽を紹介しているだけで、公式のコラボではありません。オンライン再生や再生履歴の機能はありません。</sub>
 
 ## プロジェクト制作 ✨
 
 <p align="center">
-<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
-<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
-<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
-<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
-<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
-<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
-<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
-<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+<img src="assets/ai-tools/p4sl38m4.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/48mj98gq.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/m8i27qg8.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/29lo61wg.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/g0sc016w.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/4dw3sq25.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/c794s1hj.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/a04vs9j0.svg" alt="DeepSeek" width="44">
 </p>
 <sub>各ロゴはツールの識別のために掲載しており、各ブランドとの公式な関係や推薦を示すものではありません。</sub>
 
@@ -181,7 +181,7 @@
 
 I'm Osage? I'm from China and now attend high school in Oregon, USA. Math is my favorite subject, and I'm also very interested in physics and chemistry. I love Vocaloid music and listen to it often. I'm improving my English through English Language Development (ELD) classes for English learners. I build most of my projects with help from AI.
 
-<p align="center"><img src="assets/a8m3q6z1.png" alt="Study desk by a rainy window with a laptop, math notes, books, and headphones" width="640"></p>
+<p align="center"><img src="assets/b6hrw112.png" alt="Study desk by a rainy window with a laptop, math notes, books, and headphones" width="640"></p>
 
 ## My interests 💜
 
@@ -189,7 +189,7 @@ I enjoy proving mathematical statements myself, finding connections between idea
 
 I'm more drawn to **pure mathematics** than to applied math. I'm interested in algebra, number theory, analysis, and the structure of proofs. I'm still learning these topics and haven't mastered them, but abstract ideas themselves fascinate me in a way I can't quite explain.
 
-<p align="center"><img src="assets/mandelbrot-blue-gold.jpg" alt="Blue-and-gold Mandelbrot set fractal" width="480"></p>
+<p align="center"><img src="assets/879ty4bg.jpg" alt="Blue-and-gold Mandelbrot set fractal" width="480"></p>
 
 ## Projects 🔷
 
@@ -201,7 +201,7 @@ It has song information and music links, curated creator updates, an illustratio
 
 **[Visit the station ↗](https://osagechan.top/)** &nbsp; · &nbsp; [View repository](https://github.com/9178osage/inabakumori-site)
 
-![Weather Observation Station English homepage](assets/weather-observation-station-en.png)
+![Weather Observation Station English homepage](assets/3o95u1qs.png)
 
 <sub>A personal fan project with no ties to inabakumori, the featured illustrators, or related official labels or platforms.</sub>
 
@@ -219,21 +219,21 @@ It has song information and music links, curated creator updates, an illustratio
 
 My two favorite artists are **稲葉曇 / inabakumori** and **DECO\*27**.
 
-<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 logo" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="Monochrome illustration of a person's legs" width="145"></p>
+<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 logo" width="145"> &nbsp; <img src="assets/h4e688wh.webp" alt="Monochrome illustration of a person's legs" width="145"></p>
 
 <sub>I'm just sharing music I love. This is not an official collaboration. There is no online music playback or listening history here.</sub>
 
 ## Making projects ✨
 
 <p align="center">
-<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
-<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
-<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
-<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
-<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
-<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
-<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
-<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+<img src="assets/ai-tools/p4sl38m4.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/48mj98gq.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/m8i27qg8.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/29lo61wg.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/g0sc016w.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/4dw3sq25.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/c794s1hj.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/a04vs9j0.svg" alt="DeepSeek" width="44">
 </p>
 <sub>Logos identify the tools only; they do not imply official affiliation or endorsement.</sub>
 

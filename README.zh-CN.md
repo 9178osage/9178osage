@@ -8,7 +8,7 @@
 
 我是 Osage？我来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是借助 AI 完成的。
 
-<p align="center"><img src="assets/a8m3q6z1.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="640"></p>
+<p align="center"><img src="assets/b6hrw112.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="640"></p>
 
 ## 我的爱好 💜
 
@@ -16,7 +16,7 @@
 
 比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
 
-<p align="center"><img src="assets/mandelbrot-blue-gold.jpg" alt="蓝紫金色调的曼德博集合图" width="480"></p>
+<p align="center"><img src="assets/879ty4bg.jpg" alt="蓝紫金色调的曼德博集合图" width="480"></p>
 
 ## 项目 🔷
 
@@ -28,7 +28,7 @@
 
 **[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
 
-![气象观测站中文首页截图](assets/weather-observation-station-zh.png)
+![气象观测站中文首页截图](assets/8cg7n68h.png)
 
 <sub>个人粉丝作品，与稲葉曇本人、站内插画作者及相关官方厂牌或平台均无关联。</sub>
 
@@ -46,21 +46,21 @@
 
 最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
-<p align="center"><img src="assets/deco27-logo.webp" alt="DECO*27 标志" width="145"> &nbsp; <img src="assets/inabakumori-music-image.webp" alt="人物双腿的黑白插图" width="145"></p>
+<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 标志" width="145"> &nbsp; <img src="assets/h4e688wh.webp" alt="人物双腿的黑白插图" width="145"></p>
 
 <sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
 
 ## 项目制作 ✨
 
 <p align="center">
-<img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" width="44"> &nbsp;
-<img src="assets/ai-tools/claude.svg" alt="Claude" width="44"> &nbsp;
-<img src="assets/ai-tools/grok.svg" alt="Grok" width="44"> &nbsp;
-<img src="assets/ai-tools/gemini.svg" alt="Gemini" width="44"><br>
-<img src="assets/ai-tools/github-copilot.svg" alt="GitHub Copilot" width="44"> &nbsp;
-<img src="assets/ai-tools/cursor.svg" alt="Cursor" width="44"> &nbsp;
-<img src="assets/ai-tools/opencode.svg" alt="OpenCode" width="44"> &nbsp;
-<img src="assets/ai-tools/deepseek.svg" alt="DeepSeek" width="44">
+<img src="assets/ai-tools/p4sl38m4.svg" alt="ChatGPT" width="44"> &nbsp;
+<img src="assets/ai-tools/48mj98gq.svg" alt="Claude" width="44"> &nbsp;
+<img src="assets/ai-tools/m8i27qg8.svg" alt="Grok" width="44"> &nbsp;
+<img src="assets/ai-tools/29lo61wg.svg" alt="Gemini" width="44"><br>
+<img src="assets/ai-tools/g0sc016w.svg" alt="GitHub Copilot" width="44"> &nbsp;
+<img src="assets/ai-tools/4dw3sq25.svg" alt="Cursor" width="44"> &nbsp;
+<img src="assets/ai-tools/c794s1hj.svg" alt="OpenCode" width="44"> &nbsp;
+<img src="assets/ai-tools/a04vs9j0.svg" alt="DeepSeek" width="44">
 </p>
 <sub>这些标志仅用于识别工具，不代表与相关品牌存在官方关联或获得其背书。</sub>
 
