@@ -21,6 +21,8 @@
 
 比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
 
+<p align="center"><img src="assets/mandelbrot-blue-gold.jpg" alt="蓝紫金色调的曼德博集合图" width="480"></p>
+
 ## 项目 🔷
 
 ### 01 / Weather Observation Station · 稲葉曇
@@ -100,6 +102,8 @@
 
 特に惹かれるのは、応用数学よりも**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中で、精通しているわけではありませんが、抽象的な考えには説明しきれない魅力を感じます。
 
+<p align="center"><img src="assets/mandelbrot-blue-gold.jpg" alt="青紫と金色のマンデルブロ集合の図" width="480"></p>
+
 ## プロジェクト 🔷
 
 ### 01 / Weather Observation Station · 稲葉曇
@@ -178,6 +182,8 @@ I'm Osage? I'm from China and now attend high school in Oregon, USA. Math is my 
 I enjoy proving mathematical statements myself, finding connections between ideas that seem unrelated, and working through my reasoning step by step until it is rigorous and consistent.
 
 I'm more drawn to **pure mathematics** than to applied math. I'm interested in algebra, number theory, analysis, and the structure of proofs. I'm still learning these topics and haven't mastered them, but abstract ideas themselves fascinate me in a way I can't quite explain.
+
+<p align="center"><img src="assets/mandelbrot-blue-gold.jpg" alt="Blue-and-gold Mandelbrot set fractal" width="480"></p>
 
 ## Projects 🔷
 
