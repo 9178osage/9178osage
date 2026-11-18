@@ -44,6 +44,8 @@ Osage です。中国出身で、現在はアメリカ・オレゴン州の高�
 
 **[デモを見る](https://eugene-desk.vercel.app/)** · [GitHub リポジトリ](https://github.com/9178osage/13th-desk)
 
+<p align="center"><a href="https://eugene-desk.vercel.app/"><img src="assets/eugene-desk-desktop.png" alt="Eugene Desk の英語版デスクトップ画面" width="640"></a></p>
+
 <sub>GPA は参考値で、正式な成績は学校の記録を確認してください。カレンダーや営業時間なども、各機関の公式情報をご確認ください。</sub>
 
 ---

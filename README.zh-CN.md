@@ -44,6 +44,8 @@
 
 **[在线体验](https://eugene-desk.vercel.app/)** · [GitHub 仓库](https://github.com/9178osage/13th-desk)
 
+<p align="center"><a href="https://eugene-desk.vercel.app/"><img src="assets/eugene-desk-desktop.png" alt="Eugene Desk 英文桌面主页截图" width="640"></a></p>
+
 <sub>GPA 仅为估算，正式成绩以学校记录为准；校历与开放时间等信息请以相关机构官网为准。</sub>
 
 ---
