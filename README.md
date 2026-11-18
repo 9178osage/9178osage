@@ -51,6 +51,8 @@
 
 **[在线体验](https://eugene-desk.vercel.app/)** · [GitHub 仓库](https://github.com/9178osage/13th-desk)
 
+<p align="center"><a href="https://eugene-desk.vercel.app/"><img src="assets/eugene-desk-desktop.png" alt="Eugene Desk 英文桌面主页截图" width="640"></a></p>
+
 <sub>GPA 仅为估算，正式成绩以学校记录为准；校历与开放时间等信息请以相关机构官网为准。</sub>
 
 ---
@@ -133,6 +135,8 @@ Osage です。中国出身で、現在はアメリカ・オレゴン州の高�
 
 **[デモを見る](https://eugene-desk.vercel.app/)** · [GitHub リポジトリ](https://github.com/9178osage/13th-desk)
 
+<p align="center"><a href="https://eugene-desk.vercel.app/"><img src="assets/eugene-desk-desktop.png" alt="Eugene Desk の英語版デスクトップ画面" width="640"></a></p>
+
 <sub>GPA は参考値で、正式な成績は学校の記録を確認してください。カレンダーや営業時間なども、各機関の公式情報をご確認ください。</sub>
 
 ---
@@ -214,6 +218,8 @@ I'm especially drawn to pure mathematics. I'm learning algebra, number theory, a
 - Four school levels and six languages; no login, browser-local data, GPA estimates, and calendar / image exports
 
 **[Try the demo](https://eugene-desk.vercel.app/)** · [GitHub repository](https://github.com/9178osage/13th-desk)
+
+<p align="center"><a href="https://eugene-desk.vercel.app/"><img src="assets/eugene-desk-desktop.png" alt="Eugene Desk English desktop homepage" width="640"></a></p>
 
 <sub>GPA values are estimates, not official grades. Calendar dates, opening hours, and other local information should be checked against each institution's official site.</sub>
 
