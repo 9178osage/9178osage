@@ -2,84 +2,81 @@
   <img src="https://avatars.githubusercontent.com/u/255583112?v=4&s=240" width="120" height="120" alt="Osage の GitHub アイコン">
 </p>
 
-<h1 align="center">? Osage ?</h1>
+<h1 align="center">Osage</h1>
 
 ## 自己紹介 🩵
 
-私はOsageですか？中国出身で、いまはアメリカ・オレゴン州の高校に通っています。いちばん好きなのは数学で、物理や化学にもとても興味があります。ボカロが大好きで、普段からよく聴いています。ELD（英語学習者向けの授業）を受けて、英語が上達しています。プロジェクトの大半は AI の力を借りて作っています。
+Osage です。中国出身で、現在はアメリカ・オレゴン州の高校に通っています。数学がいちばん好きで、物理や化学にも興味があります。浮かんだアイデアを、自分らしい小さな作品として形にするのが好きです。
 
-<p align="center"><img src="assets/b6hrw112.png" alt="雨の窓辺にある学習机。ノートパソコン、数学のノート、本、ヘッドホンが並ぶ。" width="640"></p>
+**個人サイト：** [homepage-197933.gitlab.io](https://homepage-197933.gitlab.io/)
 
-## 好きなこと 💜
+<p align="center"><img src="assets/b6hrw112.png" alt="雨の窓辺にある学習机。ノートパソコン、数学のノート、本、ヘッドホンが並ぶ。" width="560"></p>
 
-命題を自分の手で証明すること、一見関係なさそうな考えどうしのつながりを見つけること、そして推論を一歩ずつ、厳密に、矛盾なく組み立てることが好きです。
+## 数学と興味 💜
 
-特に惹かれるのは、応用数学よりも**純粋数学**です。代数、数論、解析学、そして証明そのものの組み立てに興味があります。どれもまだ勉強中で、精通しているわけではありませんが、抽象的な考えには説明しきれない魅力を感じます。
+とくに純粋数学に惹かれ、代数・数論・解析を学んでいます。数学的な証明の構造を理解することも好きで、一つの命題を少しずつ証明したり、考えどうしのつながりを見つけたり、議論を明確で厳密な形にまとめたりします。これらはいずれも学習中の興味であり、専門的な能力を主張するものではありません。
 
-<p align="center"><img src="assets/879ty4bg.jpg" alt="青紫と金色のマンデルブロ集合の図" width="480"></p>
+<p align="center"><img src="assets/879ty4bg.jpg" alt="青紫と金色のマンデルブロ集合の図" width="420"></p>
 
-## プロジェクト 🔷
+## 主なプロジェクト 🔷
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-🌧️ **稲葉曇 / inabakumori** さんの非公式ファンサイトを作りました。いちばん自分らしさが出ているプロジェクトです。
+🌧️ **稲葉曇 / inabakumori** さんのために作った、非公式の多言語ファンサイトです。楽曲情報や音楽の出典、クリエイターの近況をまとめています。
 
-クリエイターの近況をまとめて掲載しているほか、楽曲情報や音楽へのリンク、イラストギャラリー、アカウント機能、メッセージウォールもあります。画面は中国語・英語・日本語に対応しています。
+- 中国語・英語・日本語の楽曲ライブラリに検索・絞り込み・ブラウザ内のお気に入り保存。更新情報、イラスト、音楽リンクも掲載
+- アカウント機能、メッセージウォール、ライト / ダークテーマ
 
-**[観測所へ ↗](https://osagechan.top/)** &nbsp; · &nbsp; [リポジトリ](https://github.com/9178osage/inabakumori-site)
+**[サイトを見る](https://osagechan.top/)** · [GitHub リポジトリ](https://github.com/9178osage/inabakumori-site)
 
-![Weather Observation Station の日本語ホーム画面](assets/6kmm14t6.png)
+<p align="center"><a href="https://osagechan.top/"><img src="assets/6kmm14t6.png" alt="Weather Observation Station の日本語ホーム画面" width="640"></a></p>
 
-<sub>個人のファン活動です。稲葉曇さん、掲載イラストの作者、関連する公式レーベルやプラットフォームとは関係ありません。</sub>
+<sub>個人で制作した非公式のファンプロジェクトです。稲葉曇さん、イラスト制作者、関連する公式レーベルやプラットフォームとは関係ありません。</sub>
 
 ---
 
-### 02 / 小辫子酱 · Codex Desktop Pet
+### 02 / Eugene Desk
 
-🐾 デスクトップペットを作る非公式プロジェクトです。かわいいキャラクターとカスタムアニメーションに加えて、動作デモやダウンロードできる素材パックも用意しています。
+🗂️ オレゴン州ユージーンの学生向けに作った、多言語対応のデスク型ダッシュボードです。今日の予定、授業、地域やキャンパスの情報を一か所にまとめます。
 
-<p align="center"><img src="assets/d4v8h2m5.png" alt="小辫子酱デスクトップペットの白黒キャラクター" width="320"></p>
+- 今日のタスク、週間時間割、次の授業のカウントダウン、天気、校内・街の情報
+- 小学生から大学まで 4 つの学段と 6 言語に対応。ログイン不要でブラウザ内に保存し、GPA 見積もり、カレンダー・画像を書き出し可能
 
-**[デスクトップペットをダウンロード ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
+**[デモを見る](https://eugene-desk.vercel.app/)** · [GitHub リポジトリ](https://github.com/9178osage/13th-desk)
 
-<sub>個人の非公式なファン作品で、OpenAI の公式製品ではありません。OpenAI との公式な関係はなく、公認も受けていません。</sub>
+<sub>GPA は参考値で、正式な成績は学校の記録を確認してください。カレンダーや営業時間なども、各機関の公式情報をご確認ください。</sub>
+
+---
+
+### 03 / 小辫子酱 · Codex Desktop Pet
+
+🐾 Codex をモチーフにした非公式のデスクトップペットです。かわいいキャラクター、オリジナルアニメーション、動作デモ、ダウンロード用素材が含まれます。
+
+- キャラクターのオリジナルアニメーションと、直接見られる MP4 の動作デモ
+- ダウンロードできるデスクトップペット素材
+
+[GitHub リポジトリ](https://github.com/9178osage/xiaobianzijiang-codex-pet) · [デモを見る](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) · **[v1.0.0 をダウンロード](https://github.com/9178osage/xiaobianzijiang-codex-pet/releases/tag/v1.0.0)**
+
+<p align="center"><img src="assets/d4v8h2m5.png" alt="小辫子酱デスクトップペットの白黒キャラクター" width="280"></p>
+
+<sub>個人が制作した非公式のファン作品で、OpenAI の公式製品ではありません。OpenAI との関係や公認を示すものでもありません。</sub>
+
+## プロジェクトの作り方 ✨
+
+アイデア、機能要件、デザイン方針は主に自分で決めています。コードの大半は AI の支援によって生成され、実際に使う・試す・フィードバックする・改良を重ねる作業は自分が担当します。コードの確認には、異なる AI モデルを使うこともあります。
+
+こうした確認は問題の発見に役立ちますが、**コードが絶対に安全で、完全にエラーがないことを保証するものではありません**。
 
 ## 音楽 🎵
 
-いちばん好きなクリエイターは、**稲葉曇 / inabakumori** さんと **DECO\*27** さんの二人です。
+Vocaloid が好きで、とくに **稲葉曇 / inabakumori** さんと **DECO\*27** さんの曲をよく聴いています。
 
-<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 のロゴ" width="145"> &nbsp; <img src="assets/h4e688wh.webp" alt="人物の脚を描いたモノクロのイラスト" width="145"></p>
+<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 のロゴ" width="130"> &nbsp; <img src="assets/h4e688wh.webp" alt="人物の脚を描いたモノクロのイラスト" width="130"></p>
 
-<sub>好きな音楽を紹介しているだけで、公式のコラボではありません。オンライン再生や再生履歴の機能はありません。</sub>
+<sub>個人の好みを紹介しているだけで、公式なコラボや権利の許諾を示すものではありません。音楽再生サービスでもありません。</sub>
 
-## プロジェクト制作 ✨
+## 連絡と応援 💛
 
-<p align="center">
-<img src="assets/ai-tools/p4sl38m4.svg" alt="ChatGPT" width="44"> &nbsp;
-<img src="assets/ai-tools/48mj98gq.svg" alt="Claude" width="44"> &nbsp;
-<img src="assets/ai-tools/m8i27qg8.svg" alt="Grok" width="44"> &nbsp;
-<img src="assets/ai-tools/29lo61wg.svg" alt="Gemini" width="44"><br>
-<img src="assets/ai-tools/g0sc016w.svg" alt="GitHub Copilot" width="44"> &nbsp;
-<img src="assets/ai-tools/4dw3sq25.svg" alt="Cursor" width="44"> &nbsp;
-<img src="assets/ai-tools/c794s1hj.svg" alt="OpenCode" width="44"> &nbsp;
-<img src="assets/ai-tools/a04vs9j0.svg" alt="DeepSeek" width="44">
-</p>
-<sub>各ロゴはツールの識別のために掲載しており、各ブランドとの公式な関係や推薦を示すものではありません。</sub>
+プロジェクトへの質問や改善案は、各リポジトリの Issues へお願いします。使ってみること、役立つ意見を伝えること、気に入ったリポジトリへ Star を付けることが、大きな応援になります。
 
-正直なところ、コンピューターの知識はまだ初歩的で、大学でコンピューターサイエンスを専攻するつもりもありません。**アイデアや機能、デザインは自分で決めて、コードの大部分は AI に書いてもらっています。** そのあと自分で使ってみて、感想や改善点を伝え、納得できるまで何度も直します。
-
-安全性や信頼性も大切にしているので、複数の異なる AI モデルでコードを相互チェックすることがよくあります。問題を見つける助けにはなりますが、コードに脆弱性や不具合がないことまで**保証できるわけではありません**。
-
-## 応援してね 💛
-
-**If you enjoy my projects, feel free to support me.**
-
-どれも趣味でつくっている作品ですが、複数の高度な AI モデルでコードを書いたりチェックしたりすると、費用がかかります。応援していただけたらとてもうれしいです。もちろん、無理のない範囲で大丈夫です。実際に使ってみる、感想や改善案を送る、リポジトリにスターを付ける――それだけでも大きな励みになります。
-
-<sub>寄付のリンクはまだ載せていません。</sub>
-
-## 連絡先 ✉️
-
-作品の話でも、共通の趣味の話でも、ちょっとした挨拶でも、気軽にメールしてください。
-
-**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; QQ: 3976621619
+<sub>プライバシーを守るため、メールアドレスや個人用のメッセージング ID はここには載せていません。</sub>

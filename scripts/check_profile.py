@@ -17,9 +17,19 @@ ROOT = Path(__file__).resolve().parents[1]
 PROFILES = ("README.md", "README.zh-CN.md", "README.ja.md")
 PROJECTS = (
     "Weather Observation Station · 稲葉曇",
+    "Eugene Desk",
     "小辫子酱 · Codex Desktop Pet",
 )
-SUPPORT = "If you enjoy my projects, feel free to support me."
+REQUIRED_LINKS = (
+    "https://homepage-197933.gitlab.io/",
+    "https://osagechan.top/",
+    "https://github.com/9178osage/inabakumori-site",
+    "https://eugene-desk.vercel.app/",
+    "https://github.com/9178osage/13th-desk",
+    "https://github.com/9178osage/xiaobianzijiang-codex-pet",
+    "https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4",
+    "https://github.com/9178osage/xiaobianzijiang-codex-pet/releases/tag/v1.0.0",
+)
 ALLOWED_TAGS = {"p", "strong", "a", "img", "h1", "em", "br", "sub", "details", "summary"}
 
 
@@ -139,12 +149,21 @@ def check_local():
             errors.extend(f"{path.name}: {error}" for error in html.errors)
             if path.name == "README.md":
                 errors.extend(f"{path.name}: {error}" for error in check_inline_languages(text, html))
-            if SUPPORT not in text:
-                errors.append(f"{path.name}: missing exact support sentence")
             projects = re.findall(r"^### \d{2} / (.+)$", text, re.MULTILINE)
             expected_projects = PROJECTS * 3 if path.name == "README.md" else PROJECTS
             if tuple(projects) != expected_projects:
                 errors.append(f"{path.name}: featured projects/order changed")
+            for link in REQUIRED_LINKS:
+                if link not in text:
+                    errors.append(f"{path.name}: missing required profile link: {link}")
+            if "mailto:" in text or re.search(r"\bQQ\s*[:：]?\s*\d{4,}", text, re.IGNORECASE):
+                errors.append(f"{path.name}: direct private contact details must not be public")
+            if re.search(
+                r"\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b",
+                text,
+                re.IGNORECASE,
+            ):
+                errors.append(f"{path.name}: public email address detected")
             for alt in re.findall(r"!\[([^\]]*)\]\(", text):
                 if not alt.strip():
                     errors.append(f"{path.name}: empty Markdown image alt")

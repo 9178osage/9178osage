@@ -2,84 +2,81 @@
   <img src="https://avatars.githubusercontent.com/u/255583112?v=4&s=240" width="120" height="120" alt="Osage 的 GitHub 头像">
 </p>
 
-<h1 align="center">? Osage ?</h1>
+<h1 align="center">Osage</h1>
 
 ## 关于我 🩵
 
-我是 Osage？我来自中国，现在在美国俄勒冈州读高中。我最喜欢数学，对物理和化学也很感兴趣，平时很爱听 V 家的歌。我的英语正在通过 ELD（面向英语学习者的英语课）不断进步，大部分项目都是借助 AI 完成的。
+我是 Osage，来自中国，现在在美国俄勒冈州读高中。数学是我最喜欢的学科，也对物理和化学很感兴趣。我喜欢把想到的点子做成有个人特色的小项目。
 
-<p align="center"><img src="assets/b6hrw112.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="640"></p>
+**个人主站：** [homepage-197933.gitlab.io](https://homepage-197933.gitlab.io/)
 
-## 我的爱好 💜
+<p align="center"><img src="assets/b6hrw112.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="560"></p>
 
-我喜欢亲手把一个命题证出来，喜欢发现看似不相关的想法之间藏着的联系，也喜欢把推理一步步理清，让它严谨、自洽。
+## 数学与兴趣 💜
 
-比起应用数学，我更偏爱**纯数学**：代数、数论、分析学，还有证明本身的结构。这些我都还在慢慢学，谈不上精通，但抽象的想法本身就让我着迷，那种吸引力我也说不太清。
+我尤其喜欢纯数学，正在学习代数、数论和分析，也喜欢理解数学证明的结构。我享受慢慢证明一个命题、寻找想法之间的联系，把推理整理得清楚严谨；这些都仍是学习中的兴趣，并不是专业能力的宣称。
 
-<p align="center"><img src="assets/879ty4bg.jpg" alt="蓝紫金色调的曼德博集合图" width="480"></p>
+<p align="center"><img src="assets/879ty4bg.jpg" alt="蓝紫金色调的曼德博集合图" width="420"></p>
 
-## 项目 🔷
+## 精选项目 🔷
 
 ### 01 / Weather Observation Station · 稲葉曇
 
-🌧️ 这是我为 **稲葉曇 / inabakumori** 做的非官方粉丝站，也是最像我的一个项目。
+🌧️ 一个为 **稲葉曇 / inabakumori** 制作的非官方多语粉丝站，整理歌曲资料、音乐来源与创作者动态。
 
-站里有歌曲资料和音乐链接、整理后的创作者动态、插画展示和中英日三语界面，还有账号功能和留言墙。
+- 中英日歌曲库，支持搜索、筛选和浏览器内收藏；另有整理后的动态、插画画廊和音乐链接
+- 账号、留言墙，以及浅色 / 深色主题
 
-**[进入观测站 ↗](https://osagechan.top/)** &nbsp; · &nbsp; [查看仓库](https://github.com/9178osage/inabakumori-site)
+**[在线体验](https://osagechan.top/)** · [GitHub 仓库](https://github.com/9178osage/inabakumori-site)
 
-![气象观测站中文首页截图](assets/8cg7n68h.png)
+<p align="center"><a href="https://osagechan.top/"><img src="assets/8cg7n68h.png" alt="Weather Observation Station 中文首页截图" width="640"></a></p>
 
-<sub>个人粉丝作品，与稲葉曇本人、站内插画作者及相关官方厂牌或平台均无关联。</sub>
+<sub>个人非官方粉丝项目，与稲葉曇、插画作者及相关官方厂牌或平台均无关联。</sub>
 
 ---
 
-### 02 / 小辫子酱 · Codex Desktop Pet
+### 02 / Eugene Desk
 
-🐾 这是一个非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载的资源包。
+🗂️ 一个面向美国俄勒冈州尤金地区学生的多语书桌仪表盘，把每天要做的事、课程与校园资源集中在一个页面。
 
-<p align="center"><img src="assets/d4v8h2m5.png" alt="小辫子酱桌面宠物的黑白角色形象" width="320"></p>
+- 今日待办、周课表、下一节课倒计时、天气，以及校园与城镇资源
+- 覆盖小学到大学四个学段和六种语言；无需账号，支持本地数据、GPA 估算和日历 / 图片导出
 
-**[下载桌宠 ↗](https://github.com/9178osage/xiaobianzijiang-codex-pet)**
+**[在线体验](https://eugene-desk.vercel.app/)** · [GitHub 仓库](https://github.com/9178osage/13th-desk)
 
-<sub>个人粉丝创作，不是 OpenAI 的官方产品，与 OpenAI 没有关联，也未获其认可。</sub>
+<sub>GPA 仅为估算，正式成绩以学校记录为准；校历与开放时间等信息请以相关机构官网为准。</sub>
+
+---
+
+### 03 / 小辫子酱 · Codex Desktop Pet
+
+🐾 一个以 Codex 为灵感的非官方桌面宠物项目，包含可爱的角色形象、自定义动画、动作演示和可下载资源包。
+
+- 自定义角色动画，并提供可直接查看的 MP4 动作演示
+- 提供桌宠资源包下载
+
+[GitHub 仓库](https://github.com/9178osage/xiaobianzijiang-codex-pet) · [观看演示](https://github.com/9178osage/xiaobianzijiang-codex-pet/blob/main/xiaodai-actions.mp4) · **[下载 v1.0.0](https://github.com/9178osage/xiaobianzijiang-codex-pet/releases/tag/v1.0.0)**
+
+<p align="center"><img src="assets/d4v8h2m5.png" alt="小辫子酱桌面宠物的黑白角色形象" width="280"></p>
+
+<sub>个人非官方粉丝作品，不是 OpenAI 的官方产品，与 OpenAI 无关联，也未获其认可。</sub>
+
+## 我如何做项目 ✨
+
+项目想法、功能需求和设计方向主要由我决定；大部分代码由 AI 辅助生成。我负责实际试用、测试、反馈和反复改进，也会让不同 AI 模型帮助检查代码。
+
+这些检查能发现问题，但**不能保证代码绝对安全或完全没有错误**。
 
 ## 音乐 🎵
 
-最喜欢的两位创作者是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
+我喜欢 Vocaloid，最常听的是 **稲葉曇 / inabakumori** 和 **DECO\*27**。
 
-<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 标志" width="145"> &nbsp; <img src="assets/h4e688wh.webp" alt="人物双腿的黑白插图" width="145"></p>
+<p align="center"><img src="assets/jk2pd748.webp" alt="DECO*27 标志" width="130"> &nbsp; <img src="assets/h4e688wh.webp" alt="人物双腿的黑白插图" width="130"></p>
 
-<sub>这里只是分享个人喜好，不是官方合作，也没有在线播放或听歌记录。</sub>
+<sub>这里只分享个人喜好，不代表官方合作或获得相关权利许可；这里也不是音乐播放服务。</sub>
 
-## 项目制作 ✨
+## 联系与支持 💛
 
-<p align="center">
-<img src="assets/ai-tools/p4sl38m4.svg" alt="ChatGPT" width="44"> &nbsp;
-<img src="assets/ai-tools/48mj98gq.svg" alt="Claude" width="44"> &nbsp;
-<img src="assets/ai-tools/m8i27qg8.svg" alt="Grok" width="44"> &nbsp;
-<img src="assets/ai-tools/29lo61wg.svg" alt="Gemini" width="44"><br>
-<img src="assets/ai-tools/g0sc016w.svg" alt="GitHub Copilot" width="44"> &nbsp;
-<img src="assets/ai-tools/4dw3sq25.svg" alt="Cursor" width="44"> &nbsp;
-<img src="assets/ai-tools/c794s1hj.svg" alt="OpenCode" width="44"> &nbsp;
-<img src="assets/ai-tools/a04vs9j0.svg" alt="DeepSeek" width="44">
-</p>
-<sub>这些标志仅用于识别工具，不代表与相关品牌存在官方关联或获得其背书。</sub>
+项目反馈、问题和改进建议都可以留在对应仓库的 Issues；试用项目、分享有用的反馈或给喜欢的仓库点 Star，都是很好的支持。
 
-老实说，我的计算机基础还很浅，大学也不打算学计算机。我的做法是：**想法、功能和设计由我来定，大部分代码交给 AI 写**，然后我自己试用、提意见，一遍遍改到满意为止。
-
-我很在意安全和可靠，所以常让几个不同的 AI 模型交叉检查代码。这能帮忙发现问题，但**不能保证代码一定安全、没有错误**。
-
-## 支持我 💛
-
-**If you enjoy my projects, feel free to support me.**
-
-这些项目都是出于兴趣做的，不过用好几个高级 AI 模型写代码、做检查，确实会产生一些费用。如果你愿意支持，我会非常开心；当然完全不用有压力——试用一下、提点建议，或者给仓库点个 Star，对我来说都是很大的鼓励。
-
-<sub>这里暂时还没有放捐赠链接。</sub>
-
-## 联系我 ✉️
-
-想聊聊项目、共同的爱好，或者只是打个招呼，都欢迎给我发邮件：
-
-**[throne-uplift.3b@icloud.com](mailto:throne-uplift.3b@icloud.com)** &nbsp; · &nbsp; QQ: 3976621619
+<sub>为减少隐私暴露，这里不公开邮箱地址或即时通讯号码。</sub>
