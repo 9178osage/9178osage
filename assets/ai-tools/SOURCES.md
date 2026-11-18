@@ -13,4 +13,6 @@ Downloaded locally on 2026-11-14 from the following sources:
 | `c794s1hj.svg` | [Simple Icons](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencode.svg) | Icon artwork is under [CC0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md); trademark rights are not granted. |
 | `a04vs9j0.svg` | [Simple Icons](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deepseek.svg) | Icon artwork is under [CC0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md); trademark rights are not granted. |
 
-These are local assets only and are not currently embedded in a README. The CC0 license does not grant trademark rights; follow each brand's guidelines before publishing or using a logo in a way that could imply endorsement.
+The current README keeps the AI workflow text-only. These local files and their source notes are retained for possible future use but are not embedded in the profile.
+
+The CC0 license does not grant trademark rights; follow each brand's guidelines before publishing or using a logo in a way that could imply endorsement.
