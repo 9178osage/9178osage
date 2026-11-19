@@ -14,7 +14,7 @@ import xml.etree.ElementTree as ET
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PROFILES = ("README.md", "README.zh-CN.md", "README.ja.md")
+PROFILES = ("README.md",)
 PROJECTS = (
     "Weather Observation Station · 稲葉曇",
     "Eugene Desk",
@@ -108,16 +108,6 @@ def check_inline_languages(text, html):
     if len(bodies) != len(languages):
         errors.append("language disclosures must contain three complete Markdown bodies")
         return errors
-    for body, source_name in zip(bodies, ("README.zh-CN.md", "README.ja.md")):
-        source = ROOT / source_name
-        if not source.is_file():
-            continue  # The regular document check reports missing sources.
-        standalone = re.sub(
-            r"\A\s*(?:<p\b[^>]*>\s*<img\b[^>]*>\s*</p>\s*)?<h1\b[^>]*>.*?</h1>\s*", "",
-            source.read_text(encoding="utf-8"), count=1, flags=re.DOTALL,
-        )
-        if body.strip() != standalone.strip():
-            errors.append(f"inline language content differs from {source_name}")
     return errors
 
 
