@@ -12,10 +12,6 @@ Osage です。中国出身で、現在はアメリカ・オレゴン州の高�
 
 <p align="center"><img src="assets/b6hrw112.png" alt="雨の窓辺にある学習机。ノートパソコン、数学のノート、本、ヘッドホンが並ぶ。" width="560"></p>
 
-## GitHub への貢献 · 2026
-
-[![2026 年の GitHub 貢献カレンダー。週ごとの貢献ヒートマップと活動概要を掲載](assets/github-contributions-2026.svg)](https://github.com/9178osage)
-
 ## 数学と興味 💜
 
 とくに純粋数学に惹かれ、代数・数論・解析を学んでいます。数学的な証明の構造を理解することも好きで、一つの命題を少しずつ証明したり、考えどうしのつながりを見つけたり、議論を明確で厳密な形にまとめたりします。これらはいずれも学習中の興味であり、専門的な能力を主張するものではありません。
@@ -86,3 +82,13 @@ Vocaloid が好きで、とくに **稲葉曇 / inabakumori** さんと **DECO\*
 プロジェクトへの質問や改善案は、各リポジトリの Issues へお願いします。使ってみること、役立つ意見を伝えること、気に入ったリポジトリへ Star を付けることが、大きな応援になります。
 
 <sub>プライバシーを守るため、メールアドレスや個人用のメッセージング ID はここには載せていません。</sub>
+
+## GitHub への貢献 · 2026
+
+**1,053 件の貢献**
+
+<p align="center"><img src="assets/github-contributions-2026.svg" alt="2026 年の GitHub 貢献ヒートマップ" width="1000"></p>
+
+| 活動概要 | 貢献の内訳 |
+| --- | --- |
+| **貢献先**<br><br>[inabakumori-site](https://github.com/9178osage/inabakumori-site)、[13th-desk](https://github.com/9178osage/13th-desk)、[luopian](https://github.com/9178osage/luopian)、ほか 4 公開リポジトリ | **コミット：1,044（99%）**<br>**Issues：0**<br>**Pull requests：1（1%未満）**<br>**コードレビュー：0** |

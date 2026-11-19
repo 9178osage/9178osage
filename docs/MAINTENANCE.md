@@ -40,7 +40,7 @@
 
 主页展示只需要 `README.md`，其中已包含三语完整内容。另两份 README 保留为独立副本和旧链接兼容入口；它们不再提供跨文件的语言导航。维护文档和检查工具无需展示在个人主页上，但建议留在仓库中。
 
-主页中的 GitHub 贡献板块使用仓库内静态 `assets/github-contributions-2026.svg`，不会加载第三方统计卡片或外部脚本。图内含公开贡献日历、提交仓库与活动类别概览；需要更新时运行 `python3 scripts/update_contributions.py`，脚本通过已登录的 GitHub CLI（`gh`）读取公开数据并只替换本地 SVG。
+主页中的 GitHub 贡献板块不是单独的一张活动截图：热力图使用仓库内静态 `assets/github-contributions-2026.svg`，活动概览与贡献构成使用 README 原生文字和表格，放在每个语言区的最末尾。板块不会加载第三方统计卡片或外部脚本。需要刷新公开热力图时运行 `python3 scripts/update_contributions.py`；脚本通过已登录的 GitHub CLI（`gh`）读取公开数据并只替换本地 SVG，仓库列表和百分比仍需同步检查。
 
 简介只概述身份与兴趣；AI 分工与检查限制集中在后面的项目制作章节，避免重复。不要把整份 README 包在代码块内，首行应是正常的标题或正文。
 
@@ -120,7 +120,7 @@ AI 工作方式如实表述为：作者负责想法、功能需求和设计方�
 
 ## 图片与维护约定
 
-当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。关于我板块展示雨窗学习桌面插画 `assets/b6hrw112.png`。观测站项目使用 `assets/6kmm14t6.png`、`assets/3o95u1qs.png` 和 `assets/8cg7n68h.png` 展示三种语言的主页截图；Eugene Desk 使用 2026-11-18 从公开在线演示截取的 `assets/eugene-desk-desktop.png`，原始尺寸为 1280×800，学段为 High、界面为 English；桌宠项目展示已有角色图 `assets/d4v8h2m5.png`；音乐板块使用 `assets/jk2pd748.webp` 和 `assets/h4e688wh.webp` 展示两张静态图片，主页维护者已确认它们可用于公开主页。数学兴趣板块使用用户提供的 `assets/879ty4bg.jpg`；用户已确认该图可公开展示。主页包含本地静态贡献活动 SVG，并可通过 `scripts/update_contributions.py` 手动刷新；没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
+当前主页顶部引用 GitHub 账号头像，不把头像文件复制进仓库。关于我板块展示雨窗学习桌面插画 `assets/b6hrw112.png`。观测站项目使用 `assets/6kmm14t6.png`、`assets/3o95u1qs.png` 和 `assets/8cg7n68h.png` 展示三种语言的主页截图；Eugene Desk 使用 2026-11-18 从公开在线演示截取的 `assets/eugene-desk-desktop.png`，原始尺寸为 1280×800，学段为 High、界面为 English；桌宠项目展示已有角色图 `assets/d4v8h2m5.png`；音乐板块使用 `assets/jk2pd748.webp` 和 `assets/h4e688wh.webp` 展示两张静态图片，主页维护者已确认它们可用于公开主页。数学兴趣板块使用用户提供的 `assets/879ty4bg.jpg`；用户已确认该图可公开展示。GitHub 贡献板块放在每个语言区末尾，由本地热力图 SVG 和 README 原生活动概览组成，可通过 `scripts/update_contributions.py` 刷新热力图；没有定时更新工作流。初版的三张原创 SVG（顶部雨窗插画、项目一概念封面、音乐角落磁带插画）已按本人要求移除，需要时可从提交 [`4fc5e20`](https://github.com/9178osage/9178osage/tree/4fc5e209c6d8881b65602c5ea58e555726833e47/assets) 的 `assets/` 恢复。
 
 音乐人姓名只用于表达个人喜好，项目名称用于介绍对应作品，不暗示官方合作或背书，也不代表对相关音乐、角色或品牌拥有权利。
 

@@ -12,10 +12,6 @@
 
 <p align="center"><img src="assets/b6hrw112.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="560"></p>
 
-## GitHub 贡献 · 2026
-
-[![2026 年 GitHub 贡献日历，包含每周贡献热力图与活动概览](assets/github-contributions-2026.svg)](https://github.com/9178osage)
-
 ## 数学与兴趣 💜
 
 我尤其喜欢纯数学，正在学习代数、数论和分析，也喜欢理解数学证明的结构。我享受慢慢证明一个命题、寻找想法之间的联系，把推理整理得清楚严谨；这些都仍是学习中的兴趣，并不是专业能力的宣称。
@@ -86,3 +82,13 @@
 项目反馈、问题和改进建议都可以留在对应仓库的 Issues；试用项目、分享有用的反馈或给喜欢的仓库点 Star，都是很好的支持。
 
 <sub>为减少隐私暴露，这里不公开邮箱地址或即时通讯号码。</sub>
+
+## GitHub 贡献 · 2026
+
+**1,053 次贡献**
+
+<p align="center"><img src="assets/github-contributions-2026.svg" alt="2026 年 GitHub 贡献热力图" width="1000"></p>
+
+| 活动概览 | 贡献构成 |
+| --- | --- |
+| **贡献到**<br><br>[inabakumori-site](https://github.com/9178osage/inabakumori-site)、[13th-desk](https://github.com/9178osage/13th-desk)、[luopian](https://github.com/9178osage/luopian)，以及另外 4 个公开仓库 | **提交：1,044（99%）**<br>**Issues：0**<br>**Pull requests：1（不到 1%）**<br>**代码审查：0** |

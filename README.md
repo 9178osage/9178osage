@@ -19,10 +19,6 @@
 
 <p align="center"><img src="assets/b6hrw112.png" alt="雨天窗边的学习桌面，有笔记本电脑、数学笔记、书籍和耳机" width="560"></p>
 
-## GitHub 贡献 · 2026
-
-[![2026 年 GitHub 贡献日历，包含每周贡献热力图与活动概览](assets/github-contributions-2026.svg)](https://github.com/9178osage)
-
 ## 数学与兴趣 💜
 
 我尤其喜欢纯数学，正在学习代数、数论和分析，也喜欢理解数学证明的结构。我享受慢慢证明一个命题、寻找想法之间的联系，把推理整理得清楚严谨；这些都仍是学习中的兴趣，并不是专业能力的宣称。
@@ -94,6 +90,16 @@
 
 <sub>为减少隐私暴露，这里不公开邮箱地址或即时通讯号码。</sub>
 
+## GitHub 贡献 · 2026
+
+**1,053 次贡献**
+
+<p align="center"><img src="assets/github-contributions-2026.svg" alt="2026 年 GitHub 贡献热力图" width="1000"></p>
+
+| 活动概览 | 贡献构成 |
+| --- | --- |
+| **贡献到**<br><br>[inabakumori-site](https://github.com/9178osage/inabakumori-site)、[13th-desk](https://github.com/9178osage/13th-desk)、[luopian](https://github.com/9178osage/luopian)，以及另外 4 个公开仓库 | **提交：1,044（99%）**<br>**Issues：0**<br>**Pull requests：1（不到 1%）**<br>**代码审查：0** |
+
 </details>
 
 <details>
@@ -106,10 +112,6 @@ Osage です。中国出身で、現在はアメリカ・オレゴン州の高�
 **個人サイト：** [homepage-197933.gitlab.io](https://homepage-197933.gitlab.io/)
 
 <p align="center"><img src="assets/b6hrw112.png" alt="雨の窓辺にある学習机。ノートパソコン、数学のノート、本、ヘッドホンが並ぶ。" width="560"></p>
-
-## GitHub への貢献 · 2026
-
-[![2026 年の GitHub 貢献カレンダー。週ごとの貢献ヒートマップと活動概要を掲載](assets/github-contributions-2026.svg)](https://github.com/9178osage)
 
 ## 数学と興味 💜
 
@@ -182,6 +184,16 @@ Vocaloid が好きで、とくに **稲葉曇 / inabakumori** さんと **DECO\*
 
 <sub>プライバシーを守るため、メールアドレスや個人用のメッセージング ID はここには載せていません。</sub>
 
+## GitHub への貢献 · 2026
+
+**1,053 件の貢献**
+
+<p align="center"><img src="assets/github-contributions-2026.svg" alt="2026 年の GitHub 貢献ヒートマップ" width="1000"></p>
+
+| 活動概要 | 貢献の内訳 |
+| --- | --- |
+| **貢献先**<br><br>[inabakumori-site](https://github.com/9178osage/inabakumori-site)、[13th-desk](https://github.com/9178osage/13th-desk)、[luopian](https://github.com/9178osage/luopian)、ほか 4 公開リポジトリ | **コミット：1,044（99%）**<br>**Issues：0**<br>**Pull requests：1（1%未満）**<br>**コードレビュー：0** |
+
 </details>
 
 <details open>
@@ -194,10 +206,6 @@ I'm Osage. I'm from China and currently a high school student in Oregon, USA. Ma
 **Personal website:** [homepage-197933.gitlab.io](https://homepage-197933.gitlab.io/)
 
 <p align="center"><img src="assets/b6hrw112.png" alt="Study desk by a rainy window with a laptop, math notes, books, and headphones" width="560"></p>
-
-## GitHub contributions · 2026
-
-[![2026 GitHub contribution calendar with a weekly heatmap and activity overview](assets/github-contributions-2026.svg)](https://github.com/9178osage)
 
 ## Mathematics & interests 💜
 
@@ -269,5 +277,15 @@ I love Vocaloid music, especially **稲葉曇 / inabakumori** and **DECO\*27**.
 For project questions or ideas, leave feedback in the corresponding repository's Issues. Trying a project, sharing useful feedback, or starring a repository you enjoy is meaningful support.
 
 <sub>To reduce privacy exposure, I do not publish an email address or instant-messaging number here.</sub>
+
+## GitHub contributions · 2026
+
+**1,053 contributions**
+
+<p align="center"><img src="assets/github-contributions-2026.svg" alt="GitHub contribution heatmap for 2026" width="1000"></p>
+
+| Activity overview | Contribution mix |
+| --- | --- |
+| **Contributed to**<br><br>[inabakumori-site](https://github.com/9178osage/inabakumori-site), [13th-desk](https://github.com/9178osage/13th-desk), [luopian](https://github.com/9178osage/luopian), and 4 other public repositories | **Commits: 1,044 (99%)**<br>**Issues: 0**<br>**Pull requests: 1 (<1%)**<br>**Code reviews: 0** |
 
 </details>
